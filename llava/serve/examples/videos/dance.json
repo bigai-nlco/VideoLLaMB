@@ -1,0 +1,131 @@
+{
+    "video_path": "llava/serve/examples/videos/dance.mp4",
+    "frame_fps": 1,
+    "conversation": [
+        {
+            "time": 0.0,
+            "fps": 8.71882476931296,
+            "cost": 0.11469435691833496
+        },
+        {
+            "role": "user",
+            "content": "(Video Time = 0.0s) User: Describe the video in one sentence.",
+            "time": 1.0,
+            "fps": 2.7397644326097175,
+            "cost": 0.61529541015625
+        },
+        {
+            "role": "assistant",
+            "content": "(Video Time = 0.0s) Assistant:A man in a black jacket and black hat is standing in the middle of the street.",
+            "time": 1.0,
+            "fps": 2.7397644326097175,
+            "cost": 0.61529541015625
+        },
+        {
+            "time": 2.0,
+            "fps": 4.029977632074529,
+            "cost": 0.014431238174438477
+        },
+        {
+            "time": 3.0,
+            "fps": 5.2740479753945895,
+            "cost": 0.014009714126586914
+        },
+        {
+            "time": 4.0,
+            "fps": 6.468105790431907,
+            "cost": 0.014593124389648438
+        },
+        {
+            "time": 5.0,
+            "fps": 7.612335057610165,
+            "cost": 0.015170574188232422
+        },
+        {
+            "time": 6.0,
+            "fps": 8.723153394319873,
+            "cost": 0.014267683029174805
+        },
+        {
+            "time": 7.0,
+            "fps": 9.755051751636335,
+            "cost": 0.017625808715820312
+        },
+        {
+            "role": "user",
+            "content": "(Video Time = 8.0s) User: None",
+            "time": 8.0,
+            "fps": 6.408141855038394,
+            "cost": 0.5843753814697266
+        },
+        {
+            "role": "assistant",
+            "content": "(Video Time = 8.0s) Assistant:The man playing the guitar is wearing a black cap and a red and white striped shirt.",
+            "time": 8.0,
+            "fps": 6.408141855038394,
+            "cost": 0.5843753814697266
+        },
+        {
+            "time": 9.0,
+            "fps": 7.043273699343196,
+            "cost": 0.015331029891967773
+        },
+        {
+            "role": "user",
+            "content": "(Video Time = 10.0s) User: None",
+            "time": 10.0,
+            "fps": 5.928513228579957,
+            "cost": 0.43564558029174805
+        },
+        {
+            "role": "assistant",
+            "content": "(Video Time = 10.0s) Assistant:A man is playing a guitar while walking down the street.",
+            "time": 10.0,
+            "fps": 5.928513228579957,
+            "cost": 0.43564558029174805
+        },
+        {
+            "time": 11.0,
+            "fps": 6.415124361774656,
+            "cost": 0.015139579772949219
+        },
+        {
+            "role": "user",
+            "content": "(Video Time = 12.0s) User: None",
+            "time": 12.0,
+            "fps": 5.646708132785059,
+            "cost": 0.43164682388305664
+        },
+        {
+            "role": "assistant",
+            "content": "(Video Time = 12.0s) Assistant:The band is playing in front of the store.",
+            "time": 12.0,
+            "fps": 5.646708132785059,
+            "cost": 0.43164682388305664
+        },
+        {
+            "time": 13.0,
+            "fps": 6.037906825591524,
+            "cost": 0.01645803451538086
+        },
+        {
+            "role": "user",
+            "content": "(Video Time = 14.0s) User: None",
+            "time": 14.0,
+            "fps": 5.317145007413968,
+            "cost": 0.5023784637451172
+        },
+        {
+            "role": "assistant",
+            "content": "(Video Time = 14.0s) Assistant:The man playing the saxophone is wearing a black suit.",
+            "time": 14.0,
+            "fps": 5.317145007413968,
+            "cost": 0.5023784637451172
+        },
+        {
+            "time": 15.0,
+            "fps": 5.642735714539166,
+            "cost": 0.014441251754760742
+        }
+    ]
+}

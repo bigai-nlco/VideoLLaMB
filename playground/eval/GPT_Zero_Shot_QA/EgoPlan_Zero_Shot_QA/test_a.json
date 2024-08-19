@@ -1,0 +1,4617 @@
+[
+    {
+        "answer": 2,
+        "question_id": "1b204c9b-30da-47cc-b793-8813169e72c7_0",
+        "answer_act": "add garlic to food"
+    },
+    {
+        "answer": 2,
+        "question_id": "2bc7d6fa-a02e-4367-b316-d6b4e8a2ce3f_1",
+        "answer_act": "hold dough in pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "edc1869c-8a97-44fd-ab47-63fda4a54df9_2",
+        "answer_act": "move onion pieces to pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "690f58f1-f18c-4415-bab0-787c2f83d051_3",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 3,
+        "question_id": "6397a3fd-f939-4ea3-a297-6c731cd60875_4",
+        "answer_act": "open rice cooker lid"
+    },
+    {
+        "answer": 3,
+        "question_id": "1c795a0e-e718-466f-8bee-46febdc2b17a_5",
+        "answer_act": "stir green grams in pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_6",
+        "answer_act": "pour spaghetti"
+    },
+    {
+        "answer": 1,
+        "question_id": "c8344145-e39b-4b13-92fe-dba432a60d89_7",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_8",
+        "answer_act": "wipe counter"
+    },
+    {
+        "answer": 2,
+        "question_id": "565d83f1-0c21-4f4a-a4d1-ffb336c554ef_9",
+        "answer_act": "open floor bin"
+    },
+    {
+        "answer": 0,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_10",
+        "answer_act": "pick up folk spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_11",
+        "answer_act": "put food on plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_12",
+        "answer_act": "turn control panels"
+    },
+    {
+        "answer": 3,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_13",
+        "answer_act": "open refrigerator"
+    },
+    {
+        "answer": 2,
+        "question_id": "8b81d2e1-4ebb-4144-8d9a-1a602bf7e759_14",
+        "answer_act": "wipe sink"
+    },
+    {
+        "answer": 0,
+        "question_id": "86343e9e-b932-41d3-ad6f-83f2c2fe5486_15",
+        "answer_act": "put bowl on table"
+    },
+    {
+        "answer": 1,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_16",
+        "answer_act": "close knob"
+    },
+    {
+        "answer": 0,
+        "question_id": "1f9c087f-0d2e-424a-8f90-d5402d639fb8_17",
+        "answer_act": "bend down"
+    },
+    {
+        "answer": 3,
+        "question_id": "9a4ed30a-1535-4eaa-b9dc-40437b77f852_18",
+        "answer_act": "take jug"
+    },
+    {
+        "answer": 3,
+        "question_id": "95e3cefa-e6a2-4c1e-831d-616a86ff177b_19",
+        "answer_act": "throw dough on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_20",
+        "answer_act": "wash bowl with sponge"
+    },
+    {
+        "answer": 1,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_21",
+        "answer_act": "wipe sink with towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "3fdd2474-3cc2-41af-b18b-216ec3bd0300_22",
+        "answer_act": "spin chapati"
+    },
+    {
+        "answer": 3,
+        "question_id": "c850f043-d449-4976-b483-aa49c15e3554_23",
+        "answer_act": "take bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_24",
+        "answer_act": "pour oil in pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_25",
+        "answer_act": "pick up tray"
+    },
+    {
+        "answer": 1,
+        "question_id": "6745e6c6-27d3-433e-85f9-ecebbc991868_26",
+        "answer_act": "shake scissors"
+    },
+    {
+        "answer": 1,
+        "question_id": "8b9b9816-d6eb-4544-818e-9d59e400b80d_27",
+        "answer_act": "move knife to sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "3f0286ca-92d7-4366-b510-d3146251d825_28",
+        "answer_act": "add oil to frying pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "e0ff0f60-0e71-479a-85a5-864812e93d8e_29",
+        "answer_act": "clean bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "6745e6c6-27d3-433e-85f9-ecebbc991868_30",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "4474c9c2-9d20-46fd-8fec-7d64942738e7_31",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_32",
+        "answer_act": "add oil in pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "6ab72273-4324-4cec-aad4-1a644b57356b_33",
+        "answer_act": "put down bowl"
+    },
+    {
+        "answer": 0,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_34",
+        "answer_act": "hold tissue paper"
+    },
+    {
+        "answer": 2,
+        "question_id": "e250017c-16ff-4825-9c30-160f391e1549_35",
+        "answer_act": "trim potato ends"
+    },
+    {
+        "answer": 0,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_36",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_37",
+        "answer_act": "use tissue paper"
+    },
+    {
+        "answer": 0,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_38",
+        "answer_act": "wash knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_39",
+        "answer_act": "close kitchen cabinet"
+    },
+    {
+        "answer": 2,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_40",
+        "answer_act": "pick up cooking spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_41",
+        "answer_act": "store bowl with food in fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_42",
+        "answer_act": "put down cooking oil bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "487f5966-3469-4753-9b44-7899a311d73d_43",
+        "answer_act": "stir fry"
+    },
+    {
+        "answer": 0,
+        "question_id": "f735d4bb-d65e-4965-ac0d-270c0b9e5993_44",
+        "answer_act": "pick up wooden spoon"
+    },
+    {
+        "answer": 2,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_45",
+        "answer_act": "cover seasoning container"
+    },
+    {
+        "answer": 1,
+        "question_id": "f4a72335-18d8-42d2-94a5-9dd8b4a4d388_46",
+        "answer_act": "mix walnuts into batter with spoon"
+    },
+    {
+        "answer": 2,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_47",
+        "answer_act": "wash sieve with sponge"
+    },
+    {
+        "answer": 1,
+        "question_id": "201956f0-8e28-4ba2-b96b-98855c738fb0_48",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "4dcf1151-b0dd-49e8-8e76-3d0075d4c3f7_49",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_50",
+        "answer_act": "take chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "3b989129-a310-4aa9-85f5-e5e9a90df99b_51",
+        "answer_act": "put jug in sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_52",
+        "answer_act": "cut packet"
+    },
+    {
+        "answer": 1,
+        "question_id": "2c7fc799-1d40-49da-b5a2-213bac8ea420_53",
+        "answer_act": "take tins"
+    },
+    {
+        "answer": 0,
+        "question_id": "9f5253af-acc3-40ca-b8bf-7b931f875bd7_54",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "deea1ad6-01dd-4ea5-b5f0-932b2292bed1_55",
+        "answer_act": "wash tomato"
+    },
+    {
+        "answer": 2,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_56",
+        "answer_act": "put down food plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "7cf19d84-9445-4758-bc03-ee5f0b2e9c8f_57",
+        "answer_act": "pick up kettle"
+    },
+    {
+        "answer": 3,
+        "question_id": "a1d427e8-1d69-4c2f-9278-2172bc028c57_58",
+        "answer_act": "put down spoon"
+    },
+    {
+        "answer": 2,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_59",
+        "answer_act": "pour meat on plate"
+    },
+    {
+        "answer": 1,
+        "question_id": "c79e05d5-eaf6-4323-a707-744020743037_60",
+        "answer_act": "take cloth"
+    },
+    {
+        "answer": 2,
+        "question_id": "57ab94d1-56d2-4227-b099-7388d4cefcbf_61",
+        "answer_act": "stir food with chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_62",
+        "answer_act": "put wooden spoon in bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "b9867b08-5cfd-4528-8c94-67560048b0e7_63",
+        "answer_act": "wash chop board with brush"
+    },
+    {
+        "answer": 1,
+        "question_id": "eec01ded-9bf6-4da4-b61c-ac6a022e8ce4_64",
+        "answer_act": "put jug on heater"
+    },
+    {
+        "answer": 0,
+        "question_id": "1ab9d5f7-0181-458e-a5e7-72ce87501f3e_65",
+        "answer_act": "dry knife with towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_66",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_67",
+        "answer_act": "remove butter from spoon with chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_68",
+        "answer_act": "pick up sponge from sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "ba23930c-cef7-4f3e-b5bb-8f0a4ae5b1e4_69",
+        "answer_act": "pick up cutleries"
+    },
+    {
+        "answer": 3,
+        "question_id": "59dac266-4b43-43b1-9fe3-6013ade33eb6_70",
+        "answer_act": "turn flame regulator"
+    },
+    {
+        "answer": 1,
+        "question_id": "538c2f0a-f89e-47b5-b012-047a1b98de27_71",
+        "answer_act": "hit fingers on counter"
+    },
+    {
+        "answer": 2,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_72",
+        "answer_act": "put colander in sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "e19b1be3-8ee9-44cc-ae7d-99a3591ebba5_73",
+        "answer_act": "pour into lid"
+    },
+    {
+        "answer": 0,
+        "question_id": "7303d3a9-90fd-433d-987c-8c90ce49c821_74",
+        "answer_act": "put eggshell on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_75",
+        "answer_act": "pick up cooking oil bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_76",
+        "answer_act": "pick up dough"
+    },
+    {
+        "answer": 3,
+        "question_id": "1d9c3ad1-e00a-4ec5-8da9-734cbac7f316_77",
+        "answer_act": "wash mug"
+    },
+    {
+        "answer": 2,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_78",
+        "answer_act": "put down kettle"
+    },
+    {
+        "answer": 3,
+        "question_id": "a053c7e8-2b71-4466-abac-c6747563735a_79",
+        "answer_act": "open microwave"
+    },
+    {
+        "answer": 3,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_80",
+        "answer_act": "wipe bowl with kitchen towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "8b72b54f-f87c-4fdb-84dc-97e42ab111ac_81",
+        "answer_act": "cover pot with lid"
+    },
+    {
+        "answer": 3,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_82",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_83",
+        "answer_act": "close cupboard"
+    },
+    {
+        "answer": 1,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_84",
+        "answer_act": "open water tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "81bb7d9f-31c1-4ef6-a4be-12284c641ec6_85",
+        "answer_act": "pick up seasoning"
+    },
+    {
+        "answer": 3,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_86",
+        "answer_act": "close bowl"
+    },
+    {
+        "answer": 3,
+        "question_id": "2c27b5f1-4af6-49ad-a43c-3efb0c150868_87",
+        "answer_act": "pick up cloth"
+    },
+    {
+        "answer": 2,
+        "question_id": "1ead2ccf-0c67-41e7-88d3-de7ecd0c8c7c_88",
+        "answer_act": "open salt packet"
+    },
+    {
+        "answer": 1,
+        "question_id": "79f47a60-f1e9-4232-88b8-a1836e7dfd30_89",
+        "answer_act": "take bowl from cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "1244d83b-fb99-469c-a943-354ac4d95361_90",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "e4ab68fe-3560-4dc1-8dbf-f8d4df39f770_91",
+        "answer_act": "increase cooking fire"
+    },
+    {
+        "answer": 1,
+        "question_id": "def2e8dd-aaf7-467f-aa8f-46f654e6f4e0_92",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "88bae242-7f3a-45d4-b129-5d69b1a1e15a_93",
+        "answer_act": "rinse vegetable"
+    },
+    {
+        "answer": 3,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_94",
+        "answer_act": "pick up pan from gas cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "401c588f-907f-4559-b6f7-8180ae6969ec_95",
+        "answer_act": "put salt in food"
+    },
+    {
+        "answer": 2,
+        "question_id": "0c169d77-43f8-402b-b86c-04c885c46294_96",
+        "answer_act": "close kitchen drawer"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_97",
+        "answer_act": "pick up bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "a8486c50-4576-41e3-a9ad-ee809e40c648_98",
+        "answer_act": "pick up blender top"
+    },
+    {
+        "answer": 2,
+        "question_id": "cc3d4fcf-ef86-4796-9a89-5c49b3b32cd2_99",
+        "answer_act": "pick up bread slices"
+    },
+    {
+        "answer": 1,
+        "question_id": "3c756eea-cb0a-4372-a75a-9e1c31c2edd2_100",
+        "answer_act": "open frying pan cover"
+    },
+    {
+        "answer": 0,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_101",
+        "answer_act": "clean knife"
+    },
+    {
+        "answer": 0,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_102",
+        "answer_act": "place dough in pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "2af3d6a1-36bf-48b5-a272-c03a960c608e_103",
+        "answer_act": "pull rack"
+    },
+    {
+        "answer": 1,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_104",
+        "answer_act": "chop onion"
+    },
+    {
+        "answer": 0,
+        "question_id": "50b2fa2f-9d39-4b9c-8e3c-4a4ef0669956_105",
+        "answer_act": "open oven near refrigerator"
+    },
+    {
+        "answer": 1,
+        "question_id": "07b1c874-9dc1-42bc-87ff-dffa9bef14fb_106",
+        "answer_act": "put jug on sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_107",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "e250017c-16ff-4825-9c30-160f391e1549_108",
+        "answer_act": "pick up potato"
+    },
+    {
+        "answer": 0,
+        "question_id": "401c588f-907f-4559-b6f7-8180ae6969ec_109",
+        "answer_act": "place plate bowl in cabinet shelf"
+    },
+    {
+        "answer": 2,
+        "question_id": "201956f0-8e28-4ba2-b96b-98855c738fb0_110",
+        "answer_act": "pick up plate from sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "3f0286ca-92d7-4366-b510-d3146251d825_111",
+        "answer_act": "carry chopped vegetable in plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_112",
+        "answer_act": "pick up cooking spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_113",
+        "answer_act": "place pan on gas"
+    },
+    {
+        "answer": 1,
+        "question_id": "2ff3fee9-1073-4201-b0c5-2cb0292e4d00_114",
+        "answer_act": "scoop scone with serving spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_115",
+        "answer_act": "move wood on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_116",
+        "answer_act": "pour water in cooking pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "aa14c20d-cadf-4393-935f-52175427539d_117",
+        "answer_act": "place frying pan on cooking gas"
+    },
+    {
+        "answer": 1,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_118",
+        "answer_act": "put salt in food"
+    },
+    {
+        "answer": 3,
+        "question_id": "62849d05-9673-4f68-a84e-c2a4293c8af7_119",
+        "answer_act": "wipe sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "cb235c78-e524-417a-89fd-57b682bb223b_120",
+        "answer_act": "pick up cheese from chopping board"
+    },
+    {
+        "answer": 0,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_121",
+        "answer_act": "pick up seasoning bottle from gas cooker"
+    },
+    {
+        "answer": 3,
+        "question_id": "1b204c9b-30da-47cc-b793-8813169e72c7_122",
+        "answer_act": "close cabinet"
+    },
+    {
+        "answer": 3,
+        "question_id": "36061570-8403-4cc1-8ea0-1de39853d47b_123",
+        "answer_act": "cut meat"
+    },
+    {
+        "answer": 1,
+        "question_id": "024713b7-b198-4502-a114-02ca0485353b_124",
+        "answer_act": "pick up tray"
+    },
+    {
+        "answer": 2,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_125",
+        "answer_act": "pick up oil bottle"
+    },
+    {
+        "answer": 3,
+        "question_id": "1f9c087f-0d2e-424a-8f90-d5402d639fb8_126",
+        "answer_act": "take out chopstick"
+    },
+    {
+        "answer": 3,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_127",
+        "answer_act": "lift cooking pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "1dd24d94-8770-4f2c-b1ee-008ddc561ba9_128",
+        "answer_act": "move potato aside"
+    },
+    {
+        "answer": 2,
+        "question_id": "ae9cb412-7b93-49ae-bb46-306dc74d5fe3_129",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "6745e6c6-27d3-433e-85f9-ecebbc991868_130",
+        "answer_act": "put dirt in paper bag"
+    },
+    {
+        "answer": 0,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_131",
+        "answer_act": "put down spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "f735d4bb-d65e-4965-ac0d-270c0b9e5993_132",
+        "answer_act": "serve food"
+    },
+    {
+        "answer": 3,
+        "question_id": "cb235c78-e524-417a-89fd-57b682bb223b_133",
+        "answer_act": "chop cheese"
+    },
+    {
+        "answer": 0,
+        "question_id": "4ace159b-7af8-492b-9910-e14a5cb72d1a_134",
+        "answer_act": "close bottle"
+    },
+    {
+        "answer": 0,
+        "question_id": "ae9cb412-7b93-49ae-bb46-306dc74d5fe3_135",
+        "answer_act": "pick up spoon from kitchen counter"
+    },
+    {
+        "answer": 2,
+        "question_id": "e0ff0f60-0e71-479a-85a5-864812e93d8e_136",
+        "answer_act": "pick up pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "565d83f1-0c21-4f4a-a4d1-ffb336c554ef_137",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "ac4cf994-4099-4082-bb9d-c5c4456df71d_138",
+        "answer_act": "pick up plate from sink"
+    },
+    {
+        "answer": 0,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_139",
+        "answer_act": "pick up oven pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "6eb083c4-a7dc-454b-84bc-2f0d8a69dffe_140",
+        "answer_act": "pick up spice bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_141",
+        "answer_act": "regulate cooker heat"
+    },
+    {
+        "answer": 0,
+        "question_id": "af17c6b9-c00e-4f68-ba79-78a6f9085c62_142",
+        "answer_act": "close jug"
+    },
+    {
+        "answer": 3,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_143",
+        "answer_act": "take frying pan from cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "5cae3bb3-1e1e-4b9f-82e8-87dbaad8f73d_144",
+        "answer_act": "close cupboard"
+    },
+    {
+        "answer": 3,
+        "question_id": "edc1869c-8a97-44fd-ab47-63fda4a54df9_145",
+        "answer_act": "put down oil drizzler"
+    },
+    {
+        "answer": 0,
+        "question_id": "ae2d6792-7bdb-43c4-89b2-fc58c4b977d7_146",
+        "answer_act": "open garbage bin"
+    },
+    {
+        "answer": 2,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_147",
+        "answer_act": "pour oil on food in frypan"
+    },
+    {
+        "answer": 1,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_148",
+        "answer_act": "rinse bowl in sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "597b1ca1-e2ea-4a0e-8be0-31b713151ba2_149",
+        "answer_act": "place jar on countertop"
+    },
+    {
+        "answer": 2,
+        "question_id": "487f5966-3469-4753-9b44-7899a311d73d_150",
+        "answer_act": "put down knife"
+    },
+    {
+        "answer": 1,
+        "question_id": "cb235c78-e524-417a-89fd-57b682bb223b_151",
+        "answer_act": "pick up cable from socket"
+    },
+    {
+        "answer": 1,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_152",
+        "answer_act": "pick up dough"
+    },
+    {
+        "answer": 2,
+        "question_id": "9a4ed30a-1535-4eaa-b9dc-40437b77f852_153",
+        "answer_act": "rinse towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "3f0286ca-92d7-4366-b510-d3146251d825_154",
+        "answer_act": "open oil container"
+    },
+    {
+        "answer": 3,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_155",
+        "answer_act": "wash chopping sticks"
+    },
+    {
+        "answer": 1,
+        "question_id": "96677cbb-14bc-457a-9dbc-498e3c457f3b_156",
+        "answer_act": "pour water from steel bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "5c15607b-96af-4503-84b4-d1745f3a3ae0_157",
+        "answer_act": "scoop soup"
+    },
+    {
+        "answer": 1,
+        "question_id": "f6fea609-23c4-431c-8ac2-484f334a3a83_158",
+        "answer_act": "turn cleaning cloth"
+    },
+    {
+        "answer": 2,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_159",
+        "answer_act": "move container"
+    },
+    {
+        "answer": 2,
+        "question_id": "64f466e5-99c9-4ed5-89be-7ef74d0dfdd3_160",
+        "answer_act": "open cupboard"
+    },
+    {
+        "answer": 3,
+        "question_id": "0f5b2d21-5aaf-4073-a63f-2e56b651e132_161",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "3ee7070a-fe81-49a9-97a2-902268af9985_162",
+        "answer_act": "cover frying pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "a053c7e8-2b71-4466-abac-c6747563735a_163",
+        "answer_act": "connect spatula to handle"
+    },
+    {
+        "answer": 3,
+        "question_id": "ffd863cb-f06b-404e-a013-54acb61f1ed9_164",
+        "answer_act": "open cabinet door"
+    },
+    {
+        "answer": 2,
+        "question_id": "053ca9bc-4822-4573-b04e-aea0c1ae97df_165",
+        "answer_act": "hold faucet lever"
+    },
+    {
+        "answer": 3,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_166",
+        "answer_act": "put down cloth"
+    },
+    {
+        "answer": 0,
+        "question_id": "df10e714-4e7b-4173-9025-3f13277343a9_167",
+        "answer_act": "put mug in basket"
+    },
+    {
+        "answer": 3,
+        "question_id": "2bc7d6fa-a02e-4367-b316-d6b4e8a2ce3f_168",
+        "answer_act": "turn bread around"
+    },
+    {
+        "answer": 0,
+        "question_id": "227165a6-277b-451c-bcda-1d2cf60577ab_169",
+        "answer_act": "pick up tin from kitchen cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_170",
+        "answer_act": "add soap on scouring pad"
+    },
+    {
+        "answer": 0,
+        "question_id": "def2e8dd-aaf7-467f-aa8f-46f654e6f4e0_171",
+        "answer_act": "arrange cans on counter"
+    },
+    {
+        "answer": 3,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_172",
+        "answer_act": "stir mushroom"
+    },
+    {
+        "answer": 1,
+        "question_id": "0c169d77-43f8-402b-b86c-04c885c46294_173",
+        "answer_act": "stir spaghetti"
+    },
+    {
+        "answer": 0,
+        "question_id": "a7a31f23-8348-405e-a01a-cad63010bcc7_174",
+        "answer_act": "pour flour on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_175",
+        "answer_act": "turn off mince meat cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "b737cd68-4e0d-440a-9813-a6c90080fac5_176",
+        "answer_act": "pick up chopsticks"
+    },
+    {
+        "answer": 2,
+        "question_id": "6eb083c4-a7dc-454b-84bc-2f0d8a69dffe_177",
+        "answer_act": "close spice bottle"
+    },
+    {
+        "answer": 3,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_178",
+        "answer_act": "pick up chopsticks from kitchen sink"
+    },
+    {
+        "answer": 0,
+        "question_id": "8f760f0b-6b84-4a89-b553-288254c7533f_179",
+        "answer_act": "put pot on sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "211b46a3-4d20-4896-82ed-d56f41d90ab3_180",
+        "answer_act": "close fridge compartment"
+    },
+    {
+        "answer": 3,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_181",
+        "answer_act": "put down plate on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "8912a138-6c68-424d-8be5-59e0d4f5c173_182",
+        "answer_act": "put bowl in sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_183",
+        "answer_act": "put back bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_184",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "c115ba6e-cc76-4d8c-b28e-b659a558fc43_185",
+        "answer_act": "wash pot cover with iron sponge"
+    },
+    {
+        "answer": 0,
+        "question_id": "8e1655e6-70dd-4280-943c-5d892867495e_186",
+        "answer_act": "put chopsticks in drawer"
+    },
+    {
+        "answer": 3,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_187",
+        "answer_act": "slap dough on frying pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "a8486c50-4576-41e3-a9ad-ee809e40c648_188",
+        "answer_act": "remove blender top"
+    },
+    {
+        "answer": 0,
+        "question_id": "57ab94d1-56d2-4227-b099-7388d4cefcbf_189",
+        "answer_act": "take spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "9a4ed30a-1535-4eaa-b9dc-40437b77f852_190",
+        "answer_act": "move jug"
+    },
+    {
+        "answer": 0,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_191",
+        "answer_act": "turn vegetables"
+    },
+    {
+        "answer": 1,
+        "question_id": "2af3d6a1-36bf-48b5-a272-c03a960c608e_192",
+        "answer_act": "pick up bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "04041aaa-d309-42db-b65c-dcaf86b9f96c_193",
+        "answer_act": "put spoon in cup"
+    },
+    {
+        "answer": 2,
+        "question_id": "efd894dd-968a-494e-9b49-7001f71b1fbd_194",
+        "answer_act": "rinse pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "94cdabf3-c078-4ad4-a3a1-c42c8fc3f4ad_195",
+        "answer_act": "put onion slices in pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "4480f4ee-d218-41bd-8cdf-a7cbe13b61a0_196",
+        "answer_act": "put down disposable plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "07b1c874-9dc1-42bc-87ff-dffa9bef14fb_197",
+        "answer_act": "put baked cakes on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "aa14c20d-cadf-4393-935f-52175427539d_198",
+        "answer_act": "carry frying pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "241db0c6-c1f7-4b02-84c1-e09581baa75c_199",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 0,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_200",
+        "answer_act": "pick up cooking stick"
+    },
+    {
+        "answer": 0,
+        "question_id": "e0c4d2c7-fd50-4c50-b40e-e1eda4a5708b_201",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "c97c63b8-9130-4277-868f-6fa7a8ef0e43_202",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "cd2485dc-fa23-47f8-943a-52b9afcf5a7f_203",
+        "answer_act": "put cup and bottle on kitchen slab"
+    },
+    {
+        "answer": 2,
+        "question_id": "2af7c658-0b4e-4f3c-b72e-ab77a06e1765_204",
+        "answer_act": "wipe countertop"
+    },
+    {
+        "answer": 2,
+        "question_id": "8c309d88-bf71-49f3-9d05-b7a1d84babd4_205",
+        "answer_act": "cut carrot with knife"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_206",
+        "answer_act": "wash utensils"
+    },
+    {
+        "answer": 3,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_207",
+        "answer_act": "open knob"
+    },
+    {
+        "answer": 1,
+        "question_id": "565d83f1-0c21-4f4a-a4d1-ffb336c554ef_208",
+        "answer_act": "put spoon into plate on dining table"
+    },
+    {
+        "answer": 3,
+        "question_id": "8e1655e6-70dd-4280-943c-5d892867495e_209",
+        "answer_act": "pour soap on sponge"
+    },
+    {
+        "answer": 0,
+        "question_id": "86343e9e-b932-41d3-ad6f-83f2c2fe5486_210",
+        "answer_act": "carry bowl from table"
+    },
+    {
+        "answer": 2,
+        "question_id": "224c3de4-9683-462a-8eb4-224773425a7e_211",
+        "answer_act": "close cupboard"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_212",
+        "answer_act": "pick up spoon"
+    },
+    {
+        "answer": 2,
+        "question_id": "3c756eea-cb0a-4372-a75a-9e1c31c2edd2_213",
+        "answer_act": "place table towel on cabinet"
+    },
+    {
+        "answer": 3,
+        "question_id": "8eac6789-726f-4d09-a713-b3ce6a45ac21_214",
+        "answer_act": "pick up plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "e75caa1f-8658-432c-b559-f6a1f3fc409c_215",
+        "answer_act": "place chopping board"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfbb0a28-756c-441b-a0a0-de04288fae47_216",
+        "answer_act": "place knife"
+    },
+    {
+        "answer": 2,
+        "question_id": "224c3de4-9683-462a-8eb4-224773425a7e_217",
+        "answer_act": "shake cooking pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "94cdabf3-c078-4ad4-a3a1-c42c8fc3f4ad_218",
+        "answer_act": "pick up pan lid"
+    },
+    {
+        "answer": 0,
+        "question_id": "cd2485dc-fa23-47f8-943a-52b9afcf5a7f_219",
+        "answer_act": "turn off second cooker section"
+    },
+    {
+        "answer": 3,
+        "question_id": "5cae3bb3-1e1e-4b9f-82e8-87dbaad8f73d_220",
+        "answer_act": "put container on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "f6fea609-23c4-431c-8ac2-484f334a3a83_221",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "3b989129-a310-4aa9-85f5-e5e9a90df99b_222",
+        "answer_act": "pick up detergent"
+    },
+    {
+        "answer": 2,
+        "question_id": "94cdabf3-c078-4ad4-a3a1-c42c8fc3f4ad_223",
+        "answer_act": "pour food into pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "a8486c50-4576-41e3-a9ad-ee809e40c648_224",
+        "answer_act": "pick up salt shaker"
+    },
+    {
+        "answer": 2,
+        "question_id": "5fa671a8-c6c9-40bc-9d3d-f97d94133965_225",
+        "answer_act": "place side plate on counter"
+    },
+    {
+        "answer": 0,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_226",
+        "answer_act": "scoop oil from pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_227",
+        "answer_act": "pour cooking oil"
+    },
+    {
+        "answer": 2,
+        "question_id": "dcd30089-0bff-430d-a8ae-c41516301d88_228",
+        "answer_act": "move covered plastic tin aside"
+    },
+    {
+        "answer": 3,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_229",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "bde27e15-911c-4705-bab1-106b42a103d0_230",
+        "answer_act": "clean gas cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_231",
+        "answer_act": "close bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "8222d217-647b-4675-a104-33177fccdd54_232",
+        "answer_act": "pick up tissue paper"
+    },
+    {
+        "answer": 2,
+        "question_id": "0b215326-8706-4611-9b76-3402d617f19e_233",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_234",
+        "answer_act": "flip egg in pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "21dabbc1-d8b9-4631-846b-4e8a0fc60048_235",
+        "answer_act": "mould pancake with wooden roller"
+    },
+    {
+        "answer": 3,
+        "question_id": "bde27e15-911c-4705-bab1-106b42a103d0_236",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "86343e9e-b932-41d3-ad6f-83f2c2fe5486_237",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "cf5f1b08-95bf-40be-b876-cf14cbf65e1a_238",
+        "answer_act": "put meat container in refrigerator"
+    },
+    {
+        "answer": 2,
+        "question_id": "eec01ded-9bf6-4da4-b61c-ac6a022e8ce4_239",
+        "answer_act": "pour water in cooking pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "690f58f1-f18c-4415-bab0-787c2f83d051_240",
+        "answer_act": "pick up serving spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_241",
+        "answer_act": "take pot lid"
+    },
+    {
+        "answer": 2,
+        "question_id": "f735d4bb-d65e-4965-ac0d-270c0b9e5993_242",
+        "answer_act": "place plate on counter"
+    },
+    {
+        "answer": 0,
+        "question_id": "947e135d-ae28-4812-8575-8418ff4585ff_243",
+        "answer_act": "set stopwatch"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_244",
+        "answer_act": "choose chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "c79e05d5-eaf6-4323-a707-744020743037_245",
+        "answer_act": "place cloth"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_246",
+        "answer_act": "place towel on sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_247",
+        "answer_act": "turn on faucet"
+    },
+    {
+        "answer": 0,
+        "question_id": "96677cbb-14bc-457a-9dbc-498e3c457f3b_248",
+        "answer_act": "press microwave button"
+    },
+    {
+        "answer": 0,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_249",
+        "answer_act": "put down bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "401c588f-907f-4559-b6f7-8180ae6969ec_250",
+        "answer_act": "return bottle to drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "2ff3fee9-1073-4201-b0c5-2cb0292e4d00_251",
+        "answer_act": "open oven"
+    },
+    {
+        "answer": 3,
+        "question_id": "b86d5db4-dcd2-4d5e-913a-784d1dd42d67_252",
+        "answer_act": "clean lid with scrubber and running water"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_253",
+        "answer_act": "carry containers"
+    },
+    {
+        "answer": 1,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_254",
+        "answer_act": "cut off okra heads"
+    },
+    {
+        "answer": 0,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_255",
+        "answer_act": "pick up chopstick"
+    },
+    {
+        "answer": 0,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_256",
+        "answer_act": "pick up salt container"
+    },
+    {
+        "answer": 2,
+        "question_id": "e0ff0f60-0e71-479a-85a5-864812e93d8e_257",
+        "answer_act": "hang towel"
+    },
+    {
+        "answer": 0,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_258",
+        "answer_act": "open bottle lid"
+    },
+    {
+        "answer": 2,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_259",
+        "answer_act": "take tomato sauce from fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "ae2d6792-7bdb-43c4-89b2-fc58c4b977d7_260",
+        "answer_act": "put lid"
+    },
+    {
+        "answer": 0,
+        "question_id": "58365f2a-f88a-46f8-9572-3fdbfd693c82_261",
+        "answer_act": "hang towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "c019e4c6-45f5-4e01-9e4f-6ec4712850ce_262",
+        "answer_act": "wipe table"
+    },
+    {
+        "answer": 2,
+        "question_id": "3c756eea-cb0a-4372-a75a-9e1c31c2edd2_263",
+        "answer_act": "rinse frying pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "6745e6c6-27d3-433e-85f9-ecebbc991868_264",
+        "answer_act": "rinse scissors"
+    },
+    {
+        "answer": 0,
+        "question_id": "c799c3ab-9e07-427c-94f9-0d9d295153b8_265",
+        "answer_act": "put sauce in fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_266",
+        "answer_act": "take matchbox from table"
+    },
+    {
+        "answer": 3,
+        "question_id": "0d1b2c6a-e71a-4aa1-8a40-2c877b34aa73_267",
+        "answer_act": "pick up lid from cabinet"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_268",
+        "answer_act": "take chopsticks"
+    },
+    {
+        "answer": 3,
+        "question_id": "024713b7-b198-4502-a114-02ca0485353b_269",
+        "answer_act": "close red wine bottle"
+    },
+    {
+        "answer": 3,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_270",
+        "answer_act": "pick up strawberry pack"
+    },
+    {
+        "answer": 1,
+        "question_id": "55e6a9ac-9a1d-47f7-be3d-eea1296d1627_271",
+        "answer_act": "put bottle on sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_272",
+        "answer_act": "place serving spoon in container"
+    },
+    {
+        "answer": 1,
+        "question_id": "2af3d6a1-36bf-48b5-a272-c03a960c608e_273",
+        "answer_act": "put plate in rack"
+    },
+    {
+        "answer": 1,
+        "question_id": "48509cf2-9c7b-401a-99f9-fca9f1403149_274",
+        "answer_act": "clean metal"
+    },
+    {
+        "answer": 0,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_275",
+        "answer_act": "put cup on chopping board"
+    },
+    {
+        "answer": 2,
+        "question_id": "053ca9bc-4822-4573-b04e-aea0c1ae97df_276",
+        "answer_act": "put dishwashing liquid on sponge"
+    },
+    {
+        "answer": 2,
+        "question_id": "cd2485dc-fa23-47f8-943a-52b9afcf5a7f_277",
+        "answer_act": "move fry pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "af17c6b9-c00e-4f68-ba79-78a6f9085c62_278",
+        "answer_act": "turn on electric jug"
+    },
+    {
+        "answer": 2,
+        "question_id": "3c0a04d4-ae07-4150-94ee-e4b4e4ac742f_279",
+        "answer_act": "remove blue plastic cover"
+    },
+    {
+        "answer": 0,
+        "question_id": "597b1ca1-e2ea-4a0e-8be0-31b713151ba2_280",
+        "answer_act": "put cooking pot on cooker"
+    },
+    {
+        "answer": 0,
+        "question_id": "1b204c9b-30da-47cc-b793-8813169e72c7_281",
+        "answer_act": "pick up cooking stick"
+    },
+    {
+        "answer": 1,
+        "question_id": "1b9c07d3-0656-48ad-bae4-cca25f6664c9_282",
+        "answer_act": "put alpro soya"
+    },
+    {
+        "answer": 3,
+        "question_id": "3f0286ca-92d7-4366-b510-d3146251d825_283",
+        "answer_act": "open oil container"
+    },
+    {
+        "answer": 2,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_284",
+        "answer_act": "wipe spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_285",
+        "answer_act": "open cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "7c8a9c21-ba3c-41b8-a7e0-be7311fde0ee_286",
+        "answer_act": "hang towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_287",
+        "answer_act": "open kitchen cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "2af3d6a1-36bf-48b5-a272-c03a960c608e_288",
+        "answer_act": "put bowl in rack"
+    },
+    {
+        "answer": 0,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_289",
+        "answer_act": "open tin"
+    },
+    {
+        "answer": 0,
+        "question_id": "5dd8a212-e71d-48b1-956a-cf3e99d74953_290",
+        "answer_act": "move cooking pan around fire"
+    },
+    {
+        "answer": 3,
+        "question_id": "ae2d6792-7bdb-43c4-89b2-fc58c4b977d7_291",
+        "answer_act": "squeeze wiping cloth"
+    },
+    {
+        "answer": 1,
+        "question_id": "b737cd68-4e0d-440a-9813-a6c90080fac5_292",
+        "answer_act": "stir eggplant with chopsticks"
+    },
+    {
+        "answer": 1,
+        "question_id": "603a427f-9191-4ca4-a1b0-dd3c5e7fda70_293",
+        "answer_act": "pick up spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_294",
+        "answer_act": "flip egg in pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_295",
+        "answer_act": "put bowl in microwave"
+    },
+    {
+        "answer": 2,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_296",
+        "answer_act": "pour garlic in bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "c115ba6e-cc76-4d8c-b28e-b659a558fc43_297",
+        "answer_act": "take iron sponge"
+    },
+    {
+        "answer": 1,
+        "question_id": "5ca76592-eb15-4531-9c28-a1431c115f41_298",
+        "answer_act": "put down cup"
+    },
+    {
+        "answer": 3,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_299",
+        "answer_act": "move plates on counter"
+    },
+    {
+        "answer": 1,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_300",
+        "answer_act": "put down tray"
+    },
+    {
+        "answer": 0,
+        "question_id": "74d05939-ec8d-4da5-9a6f-35a0b97e22e2_301",
+        "answer_act": "close faucet"
+    },
+    {
+        "answer": 3,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_302",
+        "answer_act": "take bowl"
+    },
+    {
+        "answer": 0,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_303",
+        "answer_act": "scrape food off spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "224c3de4-9683-462a-8eb4-224773425a7e_304",
+        "answer_act": "put down bottle soap"
+    },
+    {
+        "answer": 0,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_305",
+        "answer_act": "place container on window"
+    },
+    {
+        "answer": 2,
+        "question_id": "14177ca9-924f-4e68-b218-6009dbddc7cc_306",
+        "answer_act": "add salt to cucumber"
+    },
+    {
+        "answer": 0,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_307",
+        "answer_act": "close cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "def2e8dd-aaf7-467f-aa8f-46f654e6f4e0_308",
+        "answer_act": "rinse cans"
+    },
+    {
+        "answer": 2,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_309",
+        "answer_act": "open microwave"
+    },
+    {
+        "answer": 1,
+        "question_id": "1938c632-f575-49dd-8ae0-e48dbb467920_310",
+        "answer_act": "put plate beside microwave"
+    },
+    {
+        "answer": 3,
+        "question_id": "5c15607b-96af-4503-84b4-d1745f3a3ae0_311",
+        "answer_act": "move spoon under lid"
+    },
+    {
+        "answer": 3,
+        "question_id": "126fe8f1-226a-4161-ad6e-84f9e5baeb3a_312",
+        "answer_act": "pick up pot cover"
+    },
+    {
+        "answer": 0,
+        "question_id": "65403036-df60-4ccb-ac72-2808b841665c_313",
+        "answer_act": "put pieces in bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "1b9c07d3-0656-48ad-bae4-cca25f6664c9_314",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_315",
+        "answer_act": "pick up plate from drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "2bb944ab-e0bf-4f69-909b-3aa550c6cd39_316",
+        "answer_act": "wipe cabinet towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_317",
+        "answer_act": "pour oil"
+    },
+    {
+        "answer": 0,
+        "question_id": "2bb944ab-e0bf-4f69-909b-3aa550c6cd39_318",
+        "answer_act": "stir noodles with chopsticks"
+    },
+    {
+        "answer": 1,
+        "question_id": "6eb083c4-a7dc-454b-84bc-2f0d8a69dffe_319",
+        "answer_act": "place sauce in cabinet"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_320",
+        "answer_act": "place chopsticks"
+    },
+    {
+        "answer": 1,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_321",
+        "answer_act": "scoop stew into plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_322",
+        "answer_act": "put blue band in fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "deea1ad6-01dd-4ea5-b5f0-932b2292bed1_323",
+        "answer_act": "place tomatoes on vegetables"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_324",
+        "answer_act": "pick up pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_325",
+        "answer_act": "put uncooked spaghetti"
+    },
+    {
+        "answer": 0,
+        "question_id": "c850f043-d449-4976-b483-aa49c15e3554_326",
+        "answer_act": "add oil to flour"
+    },
+    {
+        "answer": 2,
+        "question_id": "cb235c78-e524-417a-89fd-57b682bb223b_327",
+        "answer_act": "pick up cheese"
+    },
+    {
+        "answer": 0,
+        "question_id": "af17c6b9-c00e-4f68-ba79-78a6f9085c62_328",
+        "answer_act": "pick up cup"
+    },
+    {
+        "answer": 2,
+        "question_id": "e0c4d2c7-fd50-4c50-b40e-e1eda4a5708b_329",
+        "answer_act": "unfold kitchen towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "1ead2ccf-0c67-41e7-88d3-de7ecd0c8c7c_330",
+        "answer_act": "put goat cheese in food"
+    },
+    {
+        "answer": 2,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_331",
+        "answer_act": "rinse pasta"
+    },
+    {
+        "answer": 0,
+        "question_id": "5ca76592-eb15-4531-9c28-a1431c115f41_332",
+        "answer_act": "take soy sauce bottle"
+    },
+    {
+        "answer": 3,
+        "question_id": "8b81d2e1-4ebb-4144-8d9a-1a602bf7e759_333",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "21dabbc1-d8b9-4631-846b-4e8a0fc60048_334",
+        "answer_act": "fold pancake on cutting board"
+    },
+    {
+        "answer": 0,
+        "question_id": "3c0a04d4-ae07-4150-94ee-e4b4e4ac742f_335",
+        "answer_act": "open refrigerator"
+    },
+    {
+        "answer": 0,
+        "question_id": "064e10ee-10ae-4dec-a836-2ca94b02551c_336",
+        "answer_act": "carry plates"
+    },
+    {
+        "answer": 2,
+        "question_id": "adf4d8c5-2c49-4d25-9a20-7dc29bbda0ce_337",
+        "answer_act": "open can"
+    },
+    {
+        "answer": 1,
+        "question_id": "07b1c874-9dc1-42bc-87ff-dffa9bef14fb_338",
+        "answer_act": "operate dough mixer"
+    },
+    {
+        "answer": 1,
+        "question_id": "f86e10e3-ba23-4b1b-8964-82876eed5863_339",
+        "answer_act": "remove stack dough"
+    },
+    {
+        "answer": 1,
+        "question_id": "e0ff0f60-0e71-479a-85a5-864812e93d8e_340",
+        "answer_act": "put away sponge"
+    },
+    {
+        "answer": 0,
+        "question_id": "7430d2f7-b40e-4abd-b361-1f2ecd97c5e2_341",
+        "answer_act": "flip pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_342",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_343",
+        "answer_act": "pick up knife"
+    },
+    {
+        "answer": 0,
+        "question_id": "f26ca7c3-2dfe-4e74-be61-529635df723f_344",
+        "answer_act": "grab tortilla"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_345",
+        "answer_act": "open pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_346",
+        "answer_act": "close milk packet"
+    },
+    {
+        "answer": 1,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_347",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "5ca76592-eb15-4531-9c28-a1431c115f41_348",
+        "answer_act": "put plate in cupboard"
+    },
+    {
+        "answer": 0,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_349",
+        "answer_act": "pour soy sauce on food"
+    },
+    {
+        "answer": 3,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_350",
+        "answer_act": "wipe dirt into kitchen sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "6ab72273-4324-4cec-aad4-1a644b57356b_351",
+        "answer_act": "turn off tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "1f9c087f-0d2e-424a-8f90-d5402d639fb8_352",
+        "answer_act": "stir food"
+    },
+    {
+        "answer": 0,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_353",
+        "answer_act": "put peeler on plate rack"
+    },
+    {
+        "answer": 3,
+        "question_id": "6eb083c4-a7dc-454b-84bc-2f0d8a69dffe_354",
+        "answer_act": "pick up spice bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "57ab94d1-56d2-4227-b099-7388d4cefcbf_355",
+        "answer_act": "turn off tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_356",
+        "answer_act": "pick up glass"
+    },
+    {
+        "answer": 1,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_357",
+        "answer_act": "press wipe"
+    },
+    {
+        "answer": 3,
+        "question_id": "8f760f0b-6b84-4a89-b553-288254c7533f_358",
+        "answer_act": "put knife on chopping board"
+    },
+    {
+        "answer": 3,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_359",
+        "answer_act": "stack flatbread on table"
+    },
+    {
+        "answer": 0,
+        "question_id": "2bc7d6fa-a02e-4367-b316-d6b4e8a2ce3f_360",
+        "answer_act": "fry bread"
+    },
+    {
+        "answer": 2,
+        "question_id": "89a95cd8-ca13-4edf-807e-d62138fd30e0_361",
+        "answer_act": "place dough in pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "79001765-abc6-439b-a987-367dd4d1d5f6_362",
+        "answer_act": "clean pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_363",
+        "answer_act": "take sack"
+    },
+    {
+        "answer": 1,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_364",
+        "answer_act": "press egg with spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "25601160-c28d-4fe0-a6d7-fdf8f61b62e2_365",
+        "answer_act": "take chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "1d9c3ad1-e00a-4ec5-8da9-734cbac7f316_366",
+        "answer_act": "put mug on dish rack"
+    },
+    {
+        "answer": 2,
+        "question_id": "7430d2f7-b40e-4abd-b361-1f2ecd97c5e2_367",
+        "answer_act": "place pan on cooker"
+    },
+    {
+        "answer": 0,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_368",
+        "answer_act": "put bottle in cabinet"
+    },
+    {
+        "answer": 2,
+        "question_id": "565d83f1-0c21-4f4a-a4d1-ffb336c554ef_369",
+        "answer_act": "pour water into sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "0f5b2d21-5aaf-4073-a63f-2e56b651e132_370",
+        "answer_act": "pick up a plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "064e10ee-10ae-4dec-a836-2ca94b02551c_371",
+        "answer_act": "raise trash can lid"
+    },
+    {
+        "answer": 3,
+        "question_id": "4474c9c2-9d20-46fd-8fec-7d64942738e7_372",
+        "answer_act": "put fish in fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "62849d05-9673-4f68-a84e-c2a4293c8af7_373",
+        "answer_act": "pick up scrubber"
+    },
+    {
+        "answer": 3,
+        "question_id": "241db0c6-c1f7-4b02-84c1-e09581baa75c_374",
+        "answer_act": "place chopsticks on tray"
+    },
+    {
+        "answer": 1,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_375",
+        "answer_act": "cut paper towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_376",
+        "answer_act": "clean chopstick with napkin"
+    },
+    {
+        "answer": 1,
+        "question_id": "79001765-abc6-439b-a987-367dd4d1d5f6_377",
+        "answer_act": "clean pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "51fc62f8-00f4-44e3-af9c-7ebb63da6c3d_378",
+        "answer_act": "put fruit on cutting board"
+    },
+    {
+        "answer": 1,
+        "question_id": "ac4cf994-4099-4082-bb9d-c5c4456df71d_379",
+        "answer_act": "rinse plate with tap water"
+    },
+    {
+        "answer": 0,
+        "question_id": "dc4afc9e-7a2d-4876-b5cf-fde740582358_380",
+        "answer_act": "arrange pasta"
+    },
+    {
+        "answer": 2,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_381",
+        "answer_act": "clean bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_382",
+        "answer_act": "wash filter"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfbb0a28-756c-441b-a0a0-de04288fae47_383",
+        "answer_act": "place pot in sink"
+    },
+    {
+        "answer": 0,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_384",
+        "answer_act": "put packet in fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "bbc7640a-6dd8-4522-9ff9-fca37be6fd64_385",
+        "answer_act": "put pot on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "1ead2ccf-0c67-41e7-88d3-de7ecd0c8c7c_386",
+        "answer_act": "put goat cheese in food"
+    },
+    {
+        "answer": 3,
+        "question_id": "a2927d07-20ec-446a-bff1-df24fffa0d35_387",
+        "answer_act": "put dish on rack"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4168afc-c19a-42dc-a8df-153072e4f455_388",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_389",
+        "answer_act": "take plate with chopped broccoli"
+    },
+    {
+        "answer": 1,
+        "question_id": "5c15607b-96af-4503-84b4-d1745f3a3ae0_390",
+        "answer_act": "sprinkle spice on food"
+    },
+    {
+        "answer": 0,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_391",
+        "answer_act": "place dough in pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_392",
+        "answer_act": "pick up lid"
+    },
+    {
+        "answer": 3,
+        "question_id": "c6c0171a-50b6-4541-b7d8-daee89bef013_393",
+        "answer_act": "put glass on shelf"
+    },
+    {
+        "answer": 3,
+        "question_id": "3f0286ca-92d7-4366-b510-d3146251d825_394",
+        "answer_act": "pick up chopsticks from cabinet top"
+    },
+    {
+        "answer": 0,
+        "question_id": "8eac6789-726f-4d09-a713-b3ce6a45ac21_395",
+        "answer_act": "hold cooker knob"
+    },
+    {
+        "answer": 1,
+        "question_id": "0f5b2d21-5aaf-4073-a63f-2e56b651e132_396",
+        "answer_act": "put honey bottle on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "3fdd2474-3cc2-41af-b18b-216ec3bd0300_397",
+        "answer_act": "stretch dough"
+    },
+    {
+        "answer": 2,
+        "question_id": "04041aaa-d309-42db-b65c-dcaf86b9f96c_398",
+        "answer_act": "pick up rolled dough from plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "d88d4e54-5e5e-4c08-9a87-80958f9e4ec1_399",
+        "answer_act": "place skillet on cooker"
+    },
+    {
+        "answer": 0,
+        "question_id": "5fa671a8-c6c9-40bc-9d3d-f97d94133965_400",
+        "answer_act": "take plates from cupboard"
+    },
+    {
+        "answer": 1,
+        "question_id": "f5c456b2-b998-4f42-82bd-786833fb3891_401",
+        "answer_act": "rinse cloth"
+    },
+    {
+        "answer": 0,
+        "question_id": "51eb2565-5911-45c0-9472-23c5b3400840_402",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "a4168afc-c19a-42dc-a8df-153072e4f455_403",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "2c7fc799-1d40-49da-b5a2-213bac8ea420_404",
+        "answer_act": "open cupboard"
+    },
+    {
+        "answer": 0,
+        "question_id": "8c309d88-bf71-49f3-9d05-b7a1d84babd4_405",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_406",
+        "answer_act": "put bowl on utensil rack"
+    },
+    {
+        "answer": 1,
+        "question_id": "ba23930c-cef7-4f3e-b5bb-8f0a4ae5b1e4_407",
+        "answer_act": "open cabinet"
+    },
+    {
+        "answer": 2,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_408",
+        "answer_act": "put cooking pot on counter"
+    },
+    {
+        "answer": 2,
+        "question_id": "04041aaa-d309-42db-b65c-dcaf86b9f96c_409",
+        "answer_act": "put basin on ground"
+    },
+    {
+        "answer": 0,
+        "question_id": "55e6a9ac-9a1d-47f7-be3d-eea1296d1627_410",
+        "answer_act": "open refrigerator"
+    },
+    {
+        "answer": 1,
+        "question_id": "20bdff17-7831-4982-a4d2-705697c49b42_411",
+        "answer_act": "pick up scissors from table"
+    },
+    {
+        "answer": 1,
+        "question_id": "c8344145-e39b-4b13-92fe-dba432a60d89_412",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 1,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_413",
+        "answer_act": "drain pasta"
+    },
+    {
+        "answer": 2,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_414",
+        "answer_act": "turn off tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "6745e6c6-27d3-433e-85f9-ecebbc991868_415",
+        "answer_act": "pick up scissors"
+    },
+    {
+        "answer": 1,
+        "question_id": "deea1ad6-01dd-4ea5-b5f0-932b2292bed1_416",
+        "answer_act": "chop tomato"
+    },
+    {
+        "answer": 2,
+        "question_id": "78b06017-cd7b-441c-ba48-33c04e37a82a_417",
+        "answer_act": "put steamer pot on cooking pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "487f5966-3469-4753-9b44-7899a311d73d_418",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_419",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "64b355f3-ef49-4990-8622-9e9eef68b495_420",
+        "answer_act": "wipe knife"
+    },
+    {
+        "answer": 1,
+        "question_id": "5ca76592-eb15-4531-9c28-a1431c115f41_421",
+        "answer_act": "pour soy sauce in cup"
+    },
+    {
+        "answer": 1,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_422",
+        "answer_act": "put down tray"
+    },
+    {
+        "answer": 3,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_423",
+        "answer_act": "close oven"
+    },
+    {
+        "answer": 0,
+        "question_id": "cd8590b6-4c27-4932-9ccf-501380d35b14_424",
+        "answer_act": "chop meat with knife"
+    },
+    {
+        "answer": 0,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_425",
+        "answer_act": "pick up cooking pot lid"
+    },
+    {
+        "answer": 0,
+        "question_id": "79001765-abc6-439b-a987-367dd4d1d5f6_426",
+        "answer_act": "put cover in cabinet"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_427",
+        "answer_act": "stir stew with spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_428",
+        "answer_act": "open microwave"
+    },
+    {
+        "answer": 3,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_429",
+        "answer_act": "wash vegetable peeler"
+    },
+    {
+        "answer": 3,
+        "question_id": "603a427f-9191-4ca4-a1b0-dd3c5e7fda70_430",
+        "answer_act": "put down sugar bag"
+    },
+    {
+        "answer": 2,
+        "question_id": "deea1ad6-01dd-4ea5-b5f0-932b2292bed1_431",
+        "answer_act": "pick up towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "86343e9e-b932-41d3-ad6f-83f2c2fe5486_432",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_433",
+        "answer_act": "take chopsticks"
+    },
+    {
+        "answer": 2,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_434",
+        "answer_act": "clean chopstick with napkin"
+    },
+    {
+        "answer": 1,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_435",
+        "answer_act": "put down tray plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_436",
+        "answer_act": "put knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_437",
+        "answer_act": "close microwave"
+    },
+    {
+        "answer": 1,
+        "question_id": "51fc62f8-00f4-44e3-af9c-7ebb63da6c3d_438",
+        "answer_act": "put knife on cutting board"
+    },
+    {
+        "answer": 0,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_439",
+        "answer_act": "rinse noodles"
+    },
+    {
+        "answer": 2,
+        "question_id": "1707542b-3bdf-4671-a4e4-06a04eea3974_440",
+        "answer_act": "put down plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "1b204c9b-30da-47cc-b793-8813169e72c7_441",
+        "answer_act": "place garlic pieces on chopping board"
+    },
+    {
+        "answer": 2,
+        "question_id": "e7bb40bd-2ba3-4ac9-8e10-b209504f2964_442",
+        "answer_act": "pick up glass from counter"
+    },
+    {
+        "answer": 1,
+        "question_id": "947e135d-ae28-4812-8575-8418ff4585ff_443",
+        "answer_act": "pour food on plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "227165a6-277b-451c-bcda-1d2cf60577ab_444",
+        "answer_act": "close kitchen cabinet"
+    },
+    {
+        "answer": 3,
+        "question_id": "8d9e3484-81d3-478f-a056-c2e78d84a6b3_445",
+        "answer_act": "wipe cooker with paper"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_446",
+        "answer_act": "take chopping board"
+    },
+    {
+        "answer": 1,
+        "question_id": "0c169d77-43f8-402b-b86c-04c885c46294_447",
+        "answer_act": "stir spaghetti"
+    },
+    {
+        "answer": 0,
+        "question_id": "ee401f80-7732-4f67-a9bb-0c1e58b40b84_448",
+        "answer_act": "open cooking oil lid"
+    },
+    {
+        "answer": 1,
+        "question_id": "cd2485dc-fa23-47f8-943a-52b9afcf5a7f_449",
+        "answer_act": "pour pasta into sieve"
+    },
+    {
+        "answer": 3,
+        "question_id": "7430d2f7-b40e-4abd-b361-1f2ecd97c5e2_450",
+        "answer_act": "clean pan with running water"
+    },
+    {
+        "answer": 3,
+        "question_id": "2978ddbc-cdc9-4bfa-9a7c-4bf056904010_451",
+        "answer_act": "select sponge"
+    },
+    {
+        "answer": 3,
+        "question_id": "cfa595aa-c467-48fe-a86b-2e9b1a63ccab_452",
+        "answer_act": "stir nuts"
+    },
+    {
+        "answer": 3,
+        "question_id": "6e45136e-c64f-4eb6-bfe0-0472047d4833_453",
+        "answer_act": "roll dough with rolling pin"
+    },
+    {
+        "answer": 3,
+        "question_id": "21dabbc1-d8b9-4631-846b-4e8a0fc60048_454",
+        "answer_act": "fold pancake"
+    },
+    {
+        "answer": 1,
+        "question_id": "74d05939-ec8d-4da5-9a6f-35a0b97e22e2_455",
+        "answer_act": "open faucet"
+    },
+    {
+        "answer": 3,
+        "question_id": "6073bebd-0755-428d-a652-63efcdc4f4e5_456",
+        "answer_act": "open microwave"
+    },
+    {
+        "answer": 1,
+        "question_id": "5ca76592-eb15-4531-9c28-a1431c115f41_457",
+        "answer_act": "open cupboard"
+    },
+    {
+        "answer": 2,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_458",
+        "answer_act": "put chopsticks on table"
+    },
+    {
+        "answer": 0,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_459",
+        "answer_act": "place tray in oven"
+    },
+    {
+        "answer": 0,
+        "question_id": "8e4f159f-fa24-4458-9d99-7d5b6cc573a7_460",
+        "answer_act": "pour pack into container"
+    },
+    {
+        "answer": 3,
+        "question_id": "55e6a9ac-9a1d-47f7-be3d-eea1296d1627_461",
+        "answer_act": "open cupboard"
+    },
+    {
+        "answer": 1,
+        "question_id": "2ef6b123-c8aa-4620-a39c-89505731e866_462",
+        "answer_act": "pour water"
+    },
+    {
+        "answer": 3,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_463",
+        "answer_act": "move cup in sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "ea26e6c4-a144-43a4-8549-07f7b8030454_464",
+        "answer_act": "adjust plates on sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_465",
+        "answer_act": "pick up packet of greens"
+    },
+    {
+        "answer": 2,
+        "question_id": "241db0c6-c1f7-4b02-84c1-e09581baa75c_466",
+        "answer_act": "open drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "5c15607b-96af-4503-84b4-d1745f3a3ae0_467",
+        "answer_act": "place cooking spoon on stainless plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "c799c3ab-9e07-427c-94f9-0d9d295153b8_468",
+        "answer_act": "pick up bottle from table"
+    },
+    {
+        "answer": 0,
+        "question_id": "cd8590b6-4c27-4932-9ccf-501380d35b14_469",
+        "answer_act": "chop meat on chopping board"
+    },
+    {
+        "answer": 3,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_470",
+        "answer_act": "place lid on counter"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_471",
+        "answer_act": "wipe kitchen surface"
+    },
+    {
+        "answer": 3,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_472",
+        "answer_act": "open milk packet"
+    },
+    {
+        "answer": 2,
+        "question_id": "690f58f1-f18c-4415-bab0-787c2f83d051_473",
+        "answer_act": "stir rice with serving spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "cfa595aa-c467-48fe-a86b-2e9b1a63ccab_474",
+        "answer_act": "pick up groundnuts"
+    },
+    {
+        "answer": 1,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_475",
+        "answer_act": "put bowl in microwave"
+    },
+    {
+        "answer": 2,
+        "question_id": "837ec104-8bd9-4fe3-9c19-44417c546f91_476",
+        "answer_act": "take cup"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_477",
+        "answer_act": "place bowl in drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_478",
+        "answer_act": "pick up kitchen towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_479",
+        "answer_act": "put bowl on sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "e19b1be3-8ee9-44cc-ae7d-99a3591ebba5_480",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "deea1ad6-01dd-4ea5-b5f0-932b2292bed1_481",
+        "answer_act": "pick up sliced tomatoes from cutting board"
+    },
+    {
+        "answer": 1,
+        "question_id": "deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_482",
+        "answer_act": "pick up scissors from drawer"
+    },
+    {
+        "answer": 3,
+        "question_id": "2422d726-0286-48bc-96a6-fe29c45cc409_483",
+        "answer_act": "press fridge remote button"
+    },
+    {
+        "answer": 1,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_484",
+        "answer_act": "mix food in cooking pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_485",
+        "answer_act": "remove cloth"
+    },
+    {
+        "answer": 1,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_486",
+        "answer_act": "place glass on sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "6e45136e-c64f-4eb6-bfe0-0472047d4833_487",
+        "answer_act": "roll dough"
+    },
+    {
+        "answer": 3,
+        "question_id": "3fdd2474-3cc2-41af-b18b-216ec3bd0300_488",
+        "answer_act": "stretch dough"
+    },
+    {
+        "answer": 2,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_489",
+        "answer_act": "fold packet"
+    },
+    {
+        "answer": 1,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_490",
+        "answer_act": "scoop ginger"
+    },
+    {
+        "answer": 1,
+        "question_id": "cb235c78-e524-417a-89fd-57b682bb223b_491",
+        "answer_act": "put cheese on chopping board"
+    },
+    {
+        "answer": 1,
+        "question_id": "837ec104-8bd9-4fe3-9c19-44417c546f91_492",
+        "answer_act": "wash glass bowl with sponge"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_493",
+        "answer_act": "place chopsticks on trays"
+    },
+    {
+        "answer": 2,
+        "question_id": "69c9d98e-c125-4d24-b180-aea768ef900a_494",
+        "answer_act": "put egg in bowl"
+    },
+    {
+        "answer": 3,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_495",
+        "answer_act": "pick up dough"
+    },
+    {
+        "answer": 2,
+        "question_id": "b9867b08-5cfd-4528-8c94-67560048b0e7_496",
+        "answer_act": "pick up utensil brush"
+    },
+    {
+        "answer": 0,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_497",
+        "answer_act": "stir food"
+    },
+    {
+        "answer": 0,
+        "question_id": "b86d5db4-dcd2-4d5e-913a-784d1dd42d67_498",
+        "answer_act": "clean pan with tap water"
+    },
+    {
+        "answer": 1,
+        "question_id": "b9867b08-5cfd-4528-8c94-67560048b0e7_499",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "0f809826-2ccb-4a75-abbd-81125f65994c_500",
+        "answer_act": "squeeze kitchen sponge"
+    },
+    {
+        "answer": 0,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_501",
+        "answer_act": "put pot on gas cooker"
+    },
+    {
+        "answer": 0,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_502",
+        "answer_act": "rinse paper"
+    },
+    {
+        "answer": 1,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_503",
+        "answer_act": "put bowls in cabinet"
+    },
+    {
+        "answer": 2,
+        "question_id": "0b215326-8706-4611-9b76-3402d617f19e_504",
+        "answer_act": "put plate in rack"
+    },
+    {
+        "answer": 2,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_505",
+        "answer_act": "pick up chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "b9867b08-5cfd-4528-8c94-67560048b0e7_506",
+        "answer_act": "wipe sink surface with towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "12bf3659-40c4-4094-a4d3-507ec04bc512_507",
+        "answer_act": "place pressure cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_508",
+        "answer_act": "pour liquid into pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_509",
+        "answer_act": "put chopsticks in frypan"
+    },
+    {
+        "answer": 1,
+        "question_id": "aee01849-0c36-4e61-ad3f-0304ee4ee999_510",
+        "answer_act": "close can"
+    },
+    {
+        "answer": 2,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_511",
+        "answer_act": "pick up paper towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "dc4afc9e-7a2d-4876-b5cf-fde740582358_512",
+        "answer_act": "pull pasta from pack"
+    },
+    {
+        "answer": 2,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_513",
+        "answer_act": "mix flour"
+    },
+    {
+        "answer": 2,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_514",
+        "answer_act": "turn on water faucet"
+    },
+    {
+        "answer": 3,
+        "question_id": "3b989129-a310-4aa9-85f5-e5e9a90df99b_515",
+        "answer_act": "put jug in utensil rack"
+    },
+    {
+        "answer": 0,
+        "question_id": "4474c9c2-9d20-46fd-8fec-7d64942738e7_516",
+        "answer_act": "put fish bowl in fridge"
+    },
+    {
+        "answer": 1,
+        "question_id": "5c15607b-96af-4503-84b4-d1745f3a3ae0_517",
+        "answer_act": "place cooking spoon on pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d9c3ad1-e00a-4ec5-8da9-734cbac7f316_518",
+        "answer_act": "pick up sponge"
+    },
+    {
+        "answer": 0,
+        "question_id": "dcd09fa4-afe2-4a0d-9703-83af2867ebd3_519",
+        "answer_act": "clean counter top with towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_520",
+        "answer_act": "place container on table"
+    },
+    {
+        "answer": 1,
+        "question_id": "f54b6137-abc1-4b2d-b009-c1d6c1a97974_521",
+        "answer_act": "open frying pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "8e1655e6-70dd-4280-943c-5d892867495e_522",
+        "answer_act": "turn off tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "0d1b2c6a-e71a-4aa1-8a40-2c877b34aa73_523",
+        "answer_act": "place lid on pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "3b989129-a310-4aa9-85f5-e5e9a90df99b_524",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "ee7bc1e4-fca9-4c23-9b98-63ce27333824_525",
+        "answer_act": "put sausage in plate"
+    },
+    {
+        "answer": 1,
+        "question_id": "538c2f0a-f89e-47b5-b012-047a1b98de27_526",
+        "answer_act": "cover pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "056db3f1-f957-46c8-b16b-c8fce22e78f9_527",
+        "answer_act": "take egg"
+    },
+    {
+        "answer": 0,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_528",
+        "answer_act": "take scrub sponge"
+    },
+    {
+        "answer": 3,
+        "question_id": "1707542b-3bdf-4671-a4e4-06a04eea3974_529",
+        "answer_act": "cover pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_530",
+        "answer_act": "put bread"
+    },
+    {
+        "answer": 2,
+        "question_id": "7303d3a9-90fd-433d-987c-8c90ce49c821_531",
+        "answer_act": "turn off tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_532",
+        "answer_act": "pick up cooking oil"
+    },
+    {
+        "answer": 3,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_533",
+        "answer_act": "stir vegetables with wooden spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_534",
+        "answer_act": "stir vegetables with wooden spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "90a0cc01-f498-490a-bda1-01ad94db2946_535",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "ac08c5ee-c104-4de3-bb1c-86b76e675e21_536",
+        "answer_act": "place glass on table"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_537",
+        "answer_act": "close container"
+    },
+    {
+        "answer": 3,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_538",
+        "answer_act": "pour oil"
+    },
+    {
+        "answer": 3,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_539",
+        "answer_act": "place pot on burner"
+    },
+    {
+        "answer": 3,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_540",
+        "answer_act": "pour liquid soap into bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_541",
+        "answer_act": "pour milk in dish"
+    },
+    {
+        "answer": 0,
+        "question_id": "056db3f1-f957-46c8-b16b-c8fce22e78f9_542",
+        "answer_act": "hit eggshell on sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "2422d726-0286-48bc-96a6-fe29c45cc409_543",
+        "answer_act": "adjust spaghetti pack"
+    },
+    {
+        "answer": 1,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_544",
+        "answer_act": "wash wipe"
+    },
+    {
+        "answer": 3,
+        "question_id": "e19b1be3-8ee9-44cc-ae7d-99a3591ebba5_545",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_546",
+        "answer_act": "put pan on cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_547",
+        "answer_act": "rinse bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "8e1655e6-70dd-4280-943c-5d892867495e_548",
+        "answer_act": "hang cloth"
+    },
+    {
+        "answer": 1,
+        "question_id": "cc3d4fcf-ef86-4796-9a89-5c49b3b32cd2_549",
+        "answer_act": "pick up rag"
+    },
+    {
+        "answer": 2,
+        "question_id": "6397a3fd-f939-4ea3-a297-6c731cd60875_550",
+        "answer_act": "put rice in bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_551",
+        "answer_act": "turn off cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "201956f0-8e28-4ba2-b96b-98855c738fb0_552",
+        "answer_act": "pick up spoon from sink"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_553",
+        "answer_act": "cover pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_554",
+        "answer_act": "serve noodle onto plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "8f760f0b-6b84-4a89-b553-288254c7533f_555",
+        "answer_act": "pick up food with chopstick"
+    },
+    {
+        "answer": 3,
+        "question_id": "8f760f0b-6b84-4a89-b553-288254c7533f_556",
+        "answer_act": "pour sieve on chopping board"
+    },
+    {
+        "answer": 3,
+        "question_id": "2bc7d6fa-a02e-4367-b316-d6b4e8a2ce3f_557",
+        "answer_act": "fry bread"
+    },
+    {
+        "answer": 1,
+        "question_id": "55510a84-858b-4857-bb9f-6a923b5f7882_558",
+        "answer_act": "move dough"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_559",
+        "answer_act": "wipe spoon with kitchen towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_560",
+        "answer_act": "pick up milk packet in fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_561",
+        "answer_act": "put milk packet on cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "201956f0-8e28-4ba2-b96b-98855c738fb0_562",
+        "answer_act": "rinse cutlery"
+    },
+    {
+        "answer": 2,
+        "question_id": "ffd863cb-f06b-404e-a013-54acb61f1ed9_563",
+        "answer_act": "pick up frying pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_564",
+        "answer_act": "add cooking oil in pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "db63576c-eacf-4ee0-a9a3-e4b671a833e6_565",
+        "answer_act": "hold bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_566",
+        "answer_act": "place fry pan and chopstick on gas cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "8f760f0b-6b84-4a89-b553-288254c7533f_567",
+        "answer_act": "put sieve in sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "cd2485dc-fa23-47f8-943a-52b9afcf5a7f_568",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "3ee7070a-fe81-49a9-97a2-902268af9985_569",
+        "answer_act": "put spoon on cutting board"
+    },
+    {
+        "answer": 3,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_570",
+        "answer_act": "make a move"
+    },
+    {
+        "answer": 3,
+        "question_id": "ee7bc1e4-fca9-4c23-9b98-63ce27333824_571",
+        "answer_act": "place snack plate in fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_572",
+        "answer_act": "pick up spoon in drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "8222d217-647b-4675-a104-33177fccdd54_573",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "b9867b08-5cfd-4528-8c94-67560048b0e7_574",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_575",
+        "answer_act": "stir noodles with chopsticks"
+    },
+    {
+        "answer": 3,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_576",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "2800eb2e-b97c-4d63-8178-b7d1510731a6_577",
+        "answer_act": "stretch dough"
+    },
+    {
+        "answer": 1,
+        "question_id": "8c309d88-bf71-49f3-9d05-b7a1d84babd4_578",
+        "answer_act": "wash knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "5dd8a212-e71d-48b1-956a-cf3e99d74953_579",
+        "answer_act": "place pan cake on plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "126fe8f1-226a-4161-ad6e-84f9e5baeb3a_580",
+        "answer_act": "put frying pan on cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "4dcf1151-b0dd-49e8-8e76-3d0075d4c3f7_581",
+        "answer_act": "open lid of tomato sauce bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_582",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 3,
+        "question_id": "8d9e3484-81d3-478f-a056-c2e78d84a6b3_583",
+        "answer_act": "open container"
+    },
+    {
+        "answer": 2,
+        "question_id": "0c169d77-43f8-402b-b86c-04c885c46294_584",
+        "answer_act": "open kitchen drawer"
+    },
+    {
+        "answer": 3,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_585",
+        "answer_act": "put bowl on tray"
+    },
+    {
+        "answer": 3,
+        "question_id": "2413dce7-2c3e-43cd-8482-fbc3ed465adf_586",
+        "answer_act": "pour salt into pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "1ab9d5f7-0181-458e-a5e7-72ce87501f3e_587",
+        "answer_act": "grab kitchen towel"
+    },
+    {
+        "answer": 0,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_588",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_589",
+        "answer_act": "move bowl and matchbox"
+    },
+    {
+        "answer": 0,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_590",
+        "answer_act": "pack uncooked spaghetti"
+    },
+    {
+        "answer": 3,
+        "question_id": "ee7bc1e4-fca9-4c23-9b98-63ce27333824_591",
+        "answer_act": "place plate in fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "9f5253af-acc3-40ca-b8bf-7b931f875bd7_592",
+        "answer_act": "wash towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_593",
+        "answer_act": "put knife in cupboard"
+    },
+    {
+        "answer": 0,
+        "question_id": "947e135d-ae28-4812-8575-8418ff4585ff_594",
+        "answer_act": "stir food"
+    },
+    {
+        "answer": 0,
+        "question_id": "c115ba6e-cc76-4d8c-b28e-b659a558fc43_595",
+        "answer_act": "wash pot cover"
+    },
+    {
+        "answer": 1,
+        "question_id": "1314208b-b64d-4ebc-bc9a-fc05c091ed45_596",
+        "answer_act": "adjust food with chopsticks"
+    },
+    {
+        "answer": 3,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_597",
+        "answer_act": "press egg with spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "538c2f0a-f89e-47b5-b012-047a1b98de27_598",
+        "answer_act": "open pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_599",
+        "answer_act": "rinse knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "837ec104-8bd9-4fe3-9c19-44417c546f91_600",
+        "answer_act": "put cup on tray"
+    },
+    {
+        "answer": 3,
+        "question_id": "5fa671a8-c6c9-40bc-9d3d-f97d94133965_601",
+        "answer_act": "pick up side plate on counter"
+    },
+    {
+        "answer": 1,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_602",
+        "answer_act": "take knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "8dadb485-dcb6-4429-b78d-781e6c5aa2a3_603",
+        "answer_act": "open microwave"
+    },
+    {
+        "answer": 3,
+        "question_id": "e4ab68fe-3560-4dc1-8dbf-f8d4df39f770_604",
+        "answer_act": "pick up bottle lid"
+    },
+    {
+        "answer": 2,
+        "question_id": "2ef6b123-c8aa-4620-a39c-89505731e866_605",
+        "answer_act": "pick up cup"
+    },
+    {
+        "answer": 0,
+        "question_id": "d54f5c98-4862-4c5e-99d6-7768f28bd483_606",
+        "answer_act": "spread butter"
+    },
+    {
+        "answer": 0,
+        "question_id": "e7bb40bd-2ba3-4ac9-8e10-b209504f2964_607",
+        "answer_act": "pick up paper towel from counter"
+    },
+    {
+        "answer": 3,
+        "question_id": "cf5f1b08-95bf-40be-b876-cf14cbf65e1a_608",
+        "answer_act": "open refrigerator"
+    },
+    {
+        "answer": 2,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_609",
+        "answer_act": "open cupboard"
+    },
+    {
+        "answer": 3,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_610",
+        "answer_act": "put vegetables in pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "211b46a3-4d20-4896-82ed-d56f41d90ab3_611",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_612",
+        "answer_act": "flip flatbread on frying pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_613",
+        "answer_act": "place cooking spoon on counter"
+    },
+    {
+        "answer": 3,
+        "question_id": "cc3d4fcf-ef86-4796-9a89-5c49b3b32cd2_614",
+        "answer_act": "put down wooden spoon"
+    },
+    {
+        "answer": 2,
+        "question_id": "1c795a0e-e718-466f-8bee-46febdc2b17a_615",
+        "answer_act": "pick up wooden ladle"
+    },
+    {
+        "answer": 2,
+        "question_id": "8dadb485-dcb6-4429-b78d-781e6c5aa2a3_616",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "b7bf3a7b-9ff2-47cf-9605-08433ecdff97_617",
+        "answer_act": "put bottle in cabinet"
+    },
+    {
+        "answer": 2,
+        "question_id": "79001765-abc6-439b-a987-367dd4d1d5f6_618",
+        "answer_act": "pick up pot cover"
+    },
+    {
+        "answer": 3,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_619",
+        "answer_act": "fill pan with water"
+    },
+    {
+        "answer": 3,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_620",
+        "answer_act": "cover frypan"
+    },
+    {
+        "answer": 0,
+        "question_id": "cc3d4fcf-ef86-4796-9a89-5c49b3b32cd2_621",
+        "answer_act": "put rag in container"
+    },
+    {
+        "answer": 0,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_622",
+        "answer_act": "remove bowl from microwave"
+    },
+    {
+        "answer": 1,
+        "question_id": "a6419de9-1e40-4793-b21b-9c8d9038835a_623",
+        "answer_act": "lift up spatula"
+    },
+    {
+        "answer": 0,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_624",
+        "answer_act": "stir milk with spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_625",
+        "answer_act": "turn off gas cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "bde27e15-911c-4705-bab1-106b42a103d0_626",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "a053c7e8-2b71-4466-abac-c6747563735a_627",
+        "answer_act": "knead dough with spatula"
+    },
+    {
+        "answer": 3,
+        "question_id": "cd8590b6-4c27-4932-9ccf-501380d35b14_628",
+        "answer_act": "chop meat with knife"
+    },
+    {
+        "answer": 1,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_629",
+        "answer_act": "pick up towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "f26ca7c3-2dfe-4e74-be61-529635df723f_630",
+        "answer_act": "put tortilla on plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "69c9d98e-c125-4d24-b180-aea768ef900a_631",
+        "answer_act": "place ladle in cooking pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "90a0cc01-f498-490a-bda1-01ad94db2946_632",
+        "answer_act": "adjust plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "3c756eea-cb0a-4372-a75a-9e1c31c2edd2_633",
+        "answer_act": "press power control on cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_634",
+        "answer_act": "stack flatbread on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "79f47a60-f1e9-4232-88b8-a1836e7dfd30_635",
+        "answer_act": "close microwave"
+    },
+    {
+        "answer": 0,
+        "question_id": "b6cabd89-707f-4db1-a9c5-fdb58e0a0793_636",
+        "answer_act": "remove cup from microwave"
+    },
+    {
+        "answer": 2,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_637",
+        "answer_act": "stir stew with spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_638",
+        "answer_act": "push plate of food aside"
+    },
+    {
+        "answer": 1,
+        "question_id": "8222d217-647b-4675-a104-33177fccdd54_639",
+        "answer_act": "open water tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_640",
+        "answer_act": "open drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_641",
+        "answer_act": "pick up knife on table"
+    },
+    {
+        "answer": 1,
+        "question_id": "48509cf2-9c7b-401a-99f9-fca9f1403149_642",
+        "answer_act": "operate cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "690f58f1-f18c-4415-bab0-787c2f83d051_643",
+        "answer_act": "hold serving spoon in rice cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "f735d4bb-d65e-4965-ac0d-270c0b9e5993_644",
+        "answer_act": "place plate on counter"
+    },
+    {
+        "answer": 1,
+        "question_id": "1f9c087f-0d2e-424a-8f90-d5402d639fb8_645",
+        "answer_act": "take spoon from drawer"
+    },
+    {
+        "answer": 3,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_646",
+        "answer_act": "close bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "edc1869c-8a97-44fd-ab47-63fda4a54df9_647",
+        "answer_act": "pour oil from drizzler into pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "2ff3fee9-1073-4201-b0c5-2cb0292e4d00_648",
+        "answer_act": "scoop skons in frying pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "b86d5db4-dcd2-4d5e-913a-784d1dd42d67_649",
+        "answer_act": "clean serving spoon with running water"
+    },
+    {
+        "answer": 0,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_650",
+        "answer_act": "take out milk glasses"
+    },
+    {
+        "answer": 1,
+        "question_id": "78b06017-cd7b-441c-ba48-33c04e37a82a_651",
+        "answer_act": "pick up pot lid"
+    },
+    {
+        "answer": 0,
+        "question_id": "8e1655e6-70dd-4280-943c-5d892867495e_652",
+        "answer_act": "pick up plate and cups"
+    },
+    {
+        "answer": 2,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_653",
+        "answer_act": "pick up knife from chopping board"
+    },
+    {
+        "answer": 1,
+        "question_id": "228eb02a-6c89-4aa0-9cd4-0cdab1550c83_654",
+        "answer_act": "wipe bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "1d9c3ad1-e00a-4ec5-8da9-734cbac7f316_655",
+        "answer_act": "drain water on scouring pad"
+    },
+    {
+        "answer": 2,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_656",
+        "answer_act": "add salt to eggs"
+    },
+    {
+        "answer": 1,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_657",
+        "answer_act": "scoop food"
+    },
+    {
+        "answer": 1,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_658",
+        "answer_act": "hold tray plate of fried food"
+    },
+    {
+        "answer": 1,
+        "question_id": "0d1b2c6a-e71a-4aa1-8a40-2c877b34aa73_659",
+        "answer_act": "close cabinet"
+    },
+    {
+        "answer": 3,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_660",
+        "answer_act": "place rice cooker lid on sink edge"
+    },
+    {
+        "answer": 2,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_661",
+        "answer_act": "put lid on table"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_662",
+        "answer_act": "put butter paste container"
+    },
+    {
+        "answer": 1,
+        "question_id": "89a95cd8-ca13-4edf-807e-d62138fd30e0_663",
+        "answer_act": "pick up dough"
+    },
+    {
+        "answer": 0,
+        "question_id": "1ab9d5f7-0181-458e-a5e7-72ce87501f3e_664",
+        "answer_act": "wrap glass bowl with cling plastic wrap"
+    },
+    {
+        "answer": 0,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_665",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 1,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_666",
+        "answer_act": "rinse bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "8f760f0b-6b84-4a89-b553-288254c7533f_667",
+        "answer_act": "adjust bracelet"
+    },
+    {
+        "answer": 0,
+        "question_id": "e7bb40bd-2ba3-4ac9-8e10-b209504f2964_668",
+        "answer_act": "open bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "126fe8f1-226a-4161-ad6e-84f9e5baeb3a_669",
+        "answer_act": "fill frying pan with water"
+    },
+    {
+        "answer": 0,
+        "question_id": "62849d05-9673-4f68-a84e-c2a4293c8af7_670",
+        "answer_act": "pour water in sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_671",
+        "answer_act": "pick up tray from oven"
+    },
+    {
+        "answer": 3,
+        "question_id": "487f5966-3469-4753-9b44-7899a311d73d_672",
+        "answer_act": "put sachet on rack"
+    },
+    {
+        "answer": 2,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_673",
+        "answer_act": "cover pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "ee7bc1e4-fca9-4c23-9b98-63ce27333824_674",
+        "answer_act": "pick up sausage with chopstick"
+    },
+    {
+        "answer": 3,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_675",
+        "answer_act": "pick up fork"
+    },
+    {
+        "answer": 2,
+        "question_id": "e3ee60f1-5a34-4682-9ebb-ffbf1ea20758_676",
+        "answer_act": "wash chopping board"
+    },
+    {
+        "answer": 2,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_677",
+        "answer_act": "open refrigerator"
+    },
+    {
+        "answer": 2,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_678",
+        "answer_act": "put down folk spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_679",
+        "answer_act": "stir food"
+    },
+    {
+        "answer": 3,
+        "question_id": "bf6e4f01-7891-42fe-9b52-1b5033379b44_680",
+        "answer_act": "scoop food from basin"
+    },
+    {
+        "answer": 3,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_681",
+        "answer_act": "lay dough"
+    },
+    {
+        "answer": 3,
+        "question_id": "d88d4e54-5e5e-4c08-9a87-80958f9e4ec1_682",
+        "answer_act": "shake skillet"
+    },
+    {
+        "answer": 1,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_683",
+        "answer_act": "pick up plate from drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_684",
+        "answer_act": "put chopstick on chopping board"
+    },
+    {
+        "answer": 3,
+        "question_id": "024713b7-b198-4502-a114-02ca0485353b_685",
+        "answer_act": "dry pan with towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_686",
+        "answer_act": "uncover cooking pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_687",
+        "answer_act": "carry cooking pot"
+    },
+    {
+        "answer": 3,
+        "question_id": "c850f043-d449-4976-b483-aa49c15e3554_688",
+        "answer_act": "put down powder packet"
+    },
+    {
+        "answer": 3,
+        "question_id": "57ab94d1-56d2-4227-b099-7388d4cefcbf_689",
+        "answer_act": "put food in fry pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_690",
+        "answer_act": "scoop food"
+    },
+    {
+        "answer": 3,
+        "question_id": "c115ba6e-cc76-4d8c-b28e-b659a558fc43_691",
+        "answer_act": "wash pot cover"
+    },
+    {
+        "answer": 1,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_692",
+        "answer_act": "adjust cooker"
+    },
+    {
+        "answer": 2,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_693",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_694",
+        "answer_act": "peel banana"
+    },
+    {
+        "answer": 3,
+        "question_id": "8d9e3484-81d3-478f-a056-c2e78d84a6b3_695",
+        "answer_act": "cut paper from roll"
+    },
+    {
+        "answer": 1,
+        "question_id": "ac08c5ee-c104-4de3-bb1c-86b76e675e21_696",
+        "answer_act": "wipe glass with kitchen towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_697",
+        "answer_act": "put down chopstick"
+    },
+    {
+        "answer": 0,
+        "question_id": "bde27e15-911c-4705-bab1-106b42a103d0_698",
+        "answer_act": "cut paper towel from roll"
+    },
+    {
+        "answer": 0,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_699",
+        "answer_act": "open rice cooker"
+    },
+    {
+        "answer": 0,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_700",
+        "answer_act": "put pot lid on table"
+    },
+    {
+        "answer": 1,
+        "question_id": "bd970f5b-3fd9-4ae9-9f2b-738e8ca54c1e_701",
+        "answer_act": "wear cloth"
+    },
+    {
+        "answer": 0,
+        "question_id": "f26ca7c3-2dfe-4e74-be61-529635df723f_702",
+        "answer_act": "pick up bowl"
+    },
+    {
+        "answer": 2,
+        "question_id": "7303d3a9-90fd-433d-987c-8c90ce49c821_703",
+        "answer_act": "put eggshell on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "f86e10e3-ba23-4b1b-8964-82876eed5863_704",
+        "answer_act": "pour oil"
+    },
+    {
+        "answer": 2,
+        "question_id": "3f4bc54e-cddd-4255-973a-e9717de113dd_705",
+        "answer_act": "put plate onto sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_706",
+        "answer_act": "press oven buttons"
+    },
+    {
+        "answer": 2,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_707",
+        "answer_act": "put box in cabinet"
+    },
+    {
+        "answer": 1,
+        "question_id": "e75caa1f-8658-432c-b559-f6a1f3fc409c_708",
+        "answer_act": "chop vegetables"
+    },
+    {
+        "answer": 2,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_709",
+        "answer_act": "hang towel on fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_710",
+        "answer_act": "put polythene bag"
+    },
+    {
+        "answer": 3,
+        "question_id": "3f0286ca-92d7-4366-b510-d3146251d825_711",
+        "answer_act": "pick up oil container from cabinet top"
+    },
+    {
+        "answer": 0,
+        "question_id": "a8486c50-4576-41e3-a9ad-ee809e40c648_712",
+        "answer_act": "open cooking oil bottle"
+    },
+    {
+        "answer": 0,
+        "question_id": "e0ff0f60-0e71-479a-85a5-864812e93d8e_713",
+        "answer_act": "take knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "d54f5c98-4862-4c5e-99d6-7768f28bd483_714",
+        "answer_act": "put down plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "224c3de4-9683-462a-8eb4-224773425a7e_715",
+        "answer_act": "open cupboard"
+    },
+    {
+        "answer": 1,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_716",
+        "answer_act": "put cooking pot on cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_717",
+        "answer_act": "stretch dough piece"
+    },
+    {
+        "answer": 2,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_718",
+        "answer_act": "open cabinet"
+    },
+    {
+        "answer": 3,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_719",
+        "answer_act": "pick up pan lid"
+    },
+    {
+        "answer": 2,
+        "question_id": "0b215326-8706-4611-9b76-3402d617f19e_720",
+        "answer_act": "put honey bottle on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "c8f8ebf1-5613-4f4a-802c-ada5e4c4b651_721",
+        "answer_act": "scrape meat with knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "deea1ad6-01dd-4ea5-b5f0-932b2292bed1_722",
+        "answer_act": "pick up knife from cutting board"
+    },
+    {
+        "answer": 2,
+        "question_id": "e4ab68fe-3560-4dc1-8dbf-f8d4df39f770_723",
+        "answer_act": "place bottle on kitchen table"
+    },
+    {
+        "answer": 1,
+        "question_id": "79f47a60-f1e9-4232-88b8-a1836e7dfd30_724",
+        "answer_act": "clean sieving bowl on kitchen sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_725",
+        "answer_act": "place chopsticks on kitchen surface"
+    },
+    {
+        "answer": 0,
+        "question_id": "8b9b9816-d6eb-4544-818e-9d59e400b80d_726",
+        "answer_act": "take pot from cupboard"
+    },
+    {
+        "answer": 0,
+        "question_id": "7303d3a9-90fd-433d-987c-8c90ce49c821_727",
+        "answer_act": "put eggshell in dustbin"
+    },
+    {
+        "answer": 3,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_728",
+        "answer_act": "cover cooking pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5_729",
+        "answer_act": "close tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_730",
+        "answer_act": "wash cup in sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_731",
+        "answer_act": "pour milk into flour bowl"
+    },
+    {
+        "answer": 0,
+        "question_id": "1938c632-f575-49dd-8ae0-e48dbb467920_732",
+        "answer_act": "wash cooking pan with cleaning sponge"
+    },
+    {
+        "answer": 1,
+        "question_id": "55e6a9ac-9a1d-47f7-be3d-eea1296d1627_733",
+        "answer_act": "close cup board"
+    },
+    {
+        "answer": 3,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_734",
+        "answer_act": "remove bottle from fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_735",
+        "answer_act": "put bread on plate"
+    },
+    {
+        "answer": 2,
+        "question_id": "e0ff0f60-0e71-479a-85a5-864812e93d8e_736",
+        "answer_act": "take towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_737",
+        "answer_act": "place sieve in rack"
+    },
+    {
+        "answer": 1,
+        "question_id": "6e45136e-c64f-4eb6-bfe0-0472047d4833_738",
+        "answer_act": "gather flour"
+    },
+    {
+        "answer": 1,
+        "question_id": "b93ab731-52c3-43b2-9d99-4229663ba67c_739",
+        "answer_act": "put sieving bowl in sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "9f5253af-acc3-40ca-b8bf-7b931f875bd7_740",
+        "answer_act": "squeeze towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "2c27b5f1-4af6-49ad-a43c-3efb0c150868_741",
+        "answer_act": "put lid on cooking pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "79001765-abc6-439b-a987-367dd4d1d5f6_742",
+        "answer_act": "push pots into cabinet"
+    },
+    {
+        "answer": 1,
+        "question_id": "74d05939-ec8d-4da5-9a6f-35a0b97e22e2_743",
+        "answer_act": "throw paper towel"
+    },
+    {
+        "answer": 2,
+        "question_id": "aa14c20d-cadf-4393-935f-52175427539d_744",
+        "answer_act": "turn dough"
+    },
+    {
+        "answer": 3,
+        "question_id": "deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_745",
+        "answer_act": "remove knife from cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "6745e6c6-27d3-433e-85f9-ecebbc991868_746",
+        "answer_act": "pick up scissors"
+    },
+    {
+        "answer": 0,
+        "question_id": "78b06017-cd7b-441c-ba48-33c04e37a82a_747",
+        "answer_act": "pick up plates"
+    },
+    {
+        "answer": 3,
+        "question_id": "12bf3659-40c4-4094-a4d3-507ec04bc512_748",
+        "answer_act": "open cabinet door"
+    },
+    {
+        "answer": 0,
+        "question_id": "47305621-3729-44cc-8f1f-814faf214c40_749",
+        "answer_act": "adjust cooker"
+    },
+    {
+        "answer": 3,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_750",
+        "answer_act": "put food"
+    },
+    {
+        "answer": 0,
+        "question_id": "5c15607b-96af-4503-84b4-d1745f3a3ae0_751",
+        "answer_act": "hold cooking pot holders"
+    },
+    {
+        "answer": 0,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_752",
+        "answer_act": "pick up plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_753",
+        "answer_act": "hold plate of food"
+    },
+    {
+        "answer": 0,
+        "question_id": "1707542b-3bdf-4671-a4e4-06a04eea3974_754",
+        "answer_act": "put down plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_755",
+        "answer_act": "open bowl"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1b327b7-017c-4fbd-aeb4-1a5538f91558_756",
+        "answer_act": "carry pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "a1d427e8-1d69-4c2f-9278-2172bc028c57_757",
+        "answer_act": "stir food with spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "8b9b9816-d6eb-4544-818e-9d59e400b80d_758",
+        "answer_act": "put down container"
+    },
+    {
+        "answer": 0,
+        "question_id": "2ef6b123-c8aa-4620-a39c-89505731e866_759",
+        "answer_act": "place cup on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_760",
+        "answer_act": "pick up spoon"
+    },
+    {
+        "answer": 3,
+        "question_id": "597b1ca1-e2ea-4a0e-8be0-31b713151ba2_761",
+        "answer_act": "move rice with slotted spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_762",
+        "answer_act": "pick up bottle from sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "837ec104-8bd9-4fe3-9c19-44417c546f91_763",
+        "answer_act": "put cup on tray"
+    },
+    {
+        "answer": 0,
+        "question_id": "224c3de4-9683-462a-8eb4-224773425a7e_764",
+        "answer_act": "wash chopsticks"
+    },
+    {
+        "answer": 1,
+        "question_id": "4dcf1151-b0dd-49e8-8e76-3d0075d4c3f7_765",
+        "answer_act": "remove tomato sauce bottle"
+    },
+    {
+        "answer": 0,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_766",
+        "answer_act": "carry pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "487f5966-3469-4753-9b44-7899a311d73d_767",
+        "answer_act": "stir fry"
+    },
+    {
+        "answer": 3,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_768",
+        "answer_act": "set cup aside"
+    },
+    {
+        "answer": 1,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_769",
+        "answer_act": "wash knife"
+    },
+    {
+        "answer": 2,
+        "question_id": "c304122d-0f0a-4c6a-a5b4-63f8b7aed69c_770",
+        "answer_act": "pick up liquid soap"
+    },
+    {
+        "answer": 2,
+        "question_id": "8e1655e6-70dd-4280-943c-5d892867495e_771",
+        "answer_act": "hang cloth on sink"
+    },
+    {
+        "answer": 1,
+        "question_id": "526a15e9-39a2-49a0-ba0b-83da2e276b09_772",
+        "answer_act": "put egg in flour"
+    },
+    {
+        "answer": 0,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_773",
+        "answer_act": "move spaghetti with chopsticks"
+    },
+    {
+        "answer": 2,
+        "question_id": "f735d4bb-d65e-4965-ac0d-270c0b9e5993_774",
+        "answer_act": "pick up wooden spoon"
+    },
+    {
+        "answer": 2,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_775",
+        "answer_act": "put towel on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "c115ba6e-cc76-4d8c-b28e-b659a558fc43_776",
+        "answer_act": "put down sponge"
+    },
+    {
+        "answer": 1,
+        "question_id": "2409a5a7-a4ed-4fcb-ad77-024dc20988ca_777",
+        "answer_act": "open frypan"
+    },
+    {
+        "answer": 2,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_778",
+        "answer_act": "remove coffee filter"
+    },
+    {
+        "answer": 1,
+        "question_id": "145881ef-5578-460d-bb5a-6fb80ef7d457_779",
+        "answer_act": "pick up bowl from floor"
+    },
+    {
+        "answer": 3,
+        "question_id": "ac08c5ee-c104-4de3-bb1c-86b76e675e21_780",
+        "answer_act": "place kitchen towel"
+    },
+    {
+        "answer": 3,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_781",
+        "answer_act": "close kitchen tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_782",
+        "answer_act": "close drawer with knee"
+    },
+    {
+        "answer": 3,
+        "question_id": "3c756eea-cb0a-4372-a75a-9e1c31c2edd2_783",
+        "answer_act": "rinse cup"
+    },
+    {
+        "answer": 3,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_784",
+        "answer_act": "add water to cooking pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_785",
+        "answer_act": "turn off tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_786",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "bbc7640a-6dd8-4522-9ff9-fca37be6fd64_787",
+        "answer_act": "pour into sauce pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "b737cd68-4e0d-440a-9813-a6c90080fac5_788",
+        "answer_act": "put down chopsticks"
+    },
+    {
+        "answer": 3,
+        "question_id": "e7bb40bd-2ba3-4ac9-8e10-b209504f2964_789",
+        "answer_act": "wipe glass with paper towel"
+    },
+    {
+        "answer": 1,
+        "question_id": "78b06017-cd7b-441c-ba48-33c04e37a82a_790",
+        "answer_act": "open oven"
+    },
+    {
+        "answer": 0,
+        "question_id": "b9867b08-5cfd-4528-8c94-67560048b0e7_791",
+        "answer_act": "wash chopping board"
+    },
+    {
+        "answer": 3,
+        "question_id": "b785626b-2e72-4ee4-84de-16db332ecac6_792",
+        "answer_act": "put down plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "e25318c3-1bb2-4d60-9476-98b177af30be_793",
+        "answer_act": "open kitchen cabinet door"
+    },
+    {
+        "answer": 2,
+        "question_id": "bbc7640a-6dd8-4522-9ff9-fca37be6fd64_794",
+        "answer_act": "carry pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "5dd8a212-e71d-48b1-956a-cf3e99d74953_795",
+        "answer_act": "put cooking pot on table"
+    },
+    {
+        "answer": 2,
+        "question_id": "79f47a60-f1e9-4232-88b8-a1836e7dfd30_796",
+        "answer_act": "place bowl on cabinet"
+    },
+    {
+        "answer": 1,
+        "question_id": "c8f8ebf1-5613-4f4a-802c-ada5e4c4b651_797",
+        "answer_act": "pick up meat piece"
+    },
+    {
+        "answer": 0,
+        "question_id": "69cb5ebd-5722-4af1-9316-1d2f579552eb_798",
+        "answer_act": "operate microwave"
+    },
+    {
+        "answer": 1,
+        "question_id": "9434b584-177a-49ea-8402-078e9d7f933a_799",
+        "answer_act": "switch off smoke extractor"
+    },
+    {
+        "answer": 1,
+        "question_id": "12bf3659-40c4-4094-a4d3-507ec04bc512_800",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 1,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_801",
+        "answer_act": "scoop oil"
+    },
+    {
+        "answer": 3,
+        "question_id": "050bd580-f6ae-4e46-afe3-0478e58e13cb_802",
+        "answer_act": "pick up can"
+    },
+    {
+        "answer": 2,
+        "question_id": "9cdb75d5-f8d7-428e-b826-b9aa09ab9571_803",
+        "answer_act": "pick up knife"
+    },
+    {
+        "answer": 3,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_804",
+        "answer_act": "take a tin"
+    },
+    {
+        "answer": 2,
+        "question_id": "401c588f-907f-4559-b6f7-8180ae6969ec_805",
+        "answer_act": "open drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_806",
+        "answer_act": "rinse fork"
+    },
+    {
+        "answer": 0,
+        "question_id": "f735d4bb-d65e-4965-ac0d-270c0b9e5993_807",
+        "answer_act": "place lid on counter"
+    },
+    {
+        "answer": 1,
+        "question_id": "1c795a0e-e718-466f-8bee-46febdc2b17a_808",
+        "answer_act": "pour green grams into bowl"
+    },
+    {
+        "answer": 3,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_809",
+        "answer_act": "turn off water faucet"
+    },
+    {
+        "answer": 3,
+        "question_id": "bf6e4f01-7891-42fe-9b52-1b5033379b44_810",
+        "answer_act": "scoop food"
+    },
+    {
+        "answer": 2,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_811",
+        "answer_act": "flip flatbread on frying pan"
+    },
+    {
+        "answer": 3,
+        "question_id": "8f91bc0d-9ce7-4b31-aba7-dd59791917df_812",
+        "answer_act": "scoop food into bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "e19b1be3-8ee9-44cc-ae7d-99a3591ebba5_813",
+        "answer_act": "close drawer"
+    },
+    {
+        "answer": 2,
+        "question_id": "9e4edf4d-e557-4b3d-bc35-0d7f1f91019b_814",
+        "answer_act": "place chop board behind sink"
+    },
+    {
+        "answer": 3,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_815",
+        "answer_act": "place bowl on counter top"
+    },
+    {
+        "answer": 2,
+        "question_id": "99a250b0-a3bd-45de-9fb6-6f9a418dce1a_816",
+        "answer_act": "close water tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "deb43adb-2e2f-454a-ba4e-811ebfe4eaa2_817",
+        "answer_act": "open cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "8222d217-647b-4675-a104-33177fccdd54_818",
+        "answer_act": "pick up tissue paper"
+    },
+    {
+        "answer": 0,
+        "question_id": "edc1869c-8a97-44fd-ab47-63fda4a54df9_819",
+        "answer_act": "hang towel on window"
+    },
+    {
+        "answer": 2,
+        "question_id": "0cf6e8bd-48a6-4764-9367-c59603a00e4e_820",
+        "answer_act": "put groceries in fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "55e6a9ac-9a1d-47f7-be3d-eea1296d1627_821",
+        "answer_act": "put oil bottle on table"
+    },
+    {
+        "answer": 3,
+        "question_id": "2978ddbc-cdc9-4bfa-9a7c-4bf056904010_822",
+        "answer_act": "wash dish"
+    },
+    {
+        "answer": 2,
+        "question_id": "e7bb40bd-2ba3-4ac9-8e10-b209504f2964_823",
+        "answer_act": "place plate on shelve"
+    },
+    {
+        "answer": 0,
+        "question_id": "25c120c8-8e0c-43e0-b458-db26a6e71327_824",
+        "answer_act": "turn off water faucet"
+    },
+    {
+        "answer": 0,
+        "question_id": "3f4bc54e-cddd-4255-973a-e9717de113dd_825",
+        "answer_act": "rinse plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_826",
+        "answer_act": "pour okra"
+    },
+    {
+        "answer": 1,
+        "question_id": "f4a72335-18d8-42d2-94a5-9dd8b4a4d388_827",
+        "answer_act": "press walnut pack"
+    },
+    {
+        "answer": 0,
+        "question_id": "aa14c20d-cadf-4393-935f-52175427539d_828",
+        "answer_act": "pick up dough"
+    },
+    {
+        "answer": 0,
+        "question_id": "0d2d5c6d-08e6-461f-baac-a6cbf467e86f_829",
+        "answer_act": "pour oil"
+    },
+    {
+        "answer": 0,
+        "question_id": "25601160-c28d-4fe0-a6d7-fdf8f61b62e2_830",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "adf4d8c5-2c49-4d25-9a20-7dc29bbda0ce_831",
+        "answer_act": "place tumbler glass"
+    },
+    {
+        "answer": 1,
+        "question_id": "254e8485-eb84-461a-aed5-a71716588fad_832",
+        "answer_act": "put pack of coffee in cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "4c45d8f4-e026-4ca3-a1e4-6d32da434469_833",
+        "answer_act": "put ginger in bowl"
+    },
+    {
+        "answer": 3,
+        "question_id": "94cdabf3-c078-4ad4-a3a1-c42c8fc3f4ad_834",
+        "answer_act": "put chopsticks on kitchen surface"
+    },
+    {
+        "answer": 0,
+        "question_id": "6e45136e-c64f-4eb6-bfe0-0472047d4833_835",
+        "answer_act": "pick up round dough"
+    },
+    {
+        "answer": 2,
+        "question_id": "c115ba6e-cc76-4d8c-b28e-b659a558fc43_836",
+        "answer_act": "put down pot"
+    },
+    {
+        "answer": 2,
+        "question_id": "064e10ee-10ae-4dec-a836-2ca94b02551c_837",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "a23b3840-0a21-4bdc-87df-b0c3b7df6bd2_838",
+        "answer_act": "open cabinet door"
+    },
+    {
+        "answer": 2,
+        "question_id": "efd894dd-968a-494e-9b49-7001f71b1fbd_839",
+        "answer_act": "pick up pot lid in sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "487f5966-3469-4753-9b44-7899a311d73d_840",
+        "answer_act": "pick up cup from cabinet"
+    },
+    {
+        "answer": 0,
+        "question_id": "6e45136e-c64f-4eb6-bfe0-0472047d4833_841",
+        "answer_act": "roll dough"
+    },
+    {
+        "answer": 3,
+        "question_id": "78b06017-cd7b-441c-ba48-33c04e37a82a_842",
+        "answer_act": "pick up steamer pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "2978ddbc-cdc9-4bfa-9a7c-4bf056904010_843",
+        "answer_act": "remove gloves"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_844",
+        "answer_act": "close refrigerator"
+    },
+    {
+        "answer": 0,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_845",
+        "answer_act": "stir mushroom with chopsticks"
+    },
+    {
+        "answer": 1,
+        "question_id": "5ca76592-eb15-4531-9c28-a1431c115f41_846",
+        "answer_act": "close bottle"
+    },
+    {
+        "answer": 2,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_847",
+        "answer_act": "pick up tissue paper"
+    },
+    {
+        "answer": 1,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_848",
+        "answer_act": "pour milk on spoon"
+    },
+    {
+        "answer": 0,
+        "question_id": "57ab94d1-56d2-4227-b099-7388d4cefcbf_849",
+        "answer_act": "turn packet upside down"
+    },
+    {
+        "answer": 2,
+        "question_id": "864fa3d8-9b18-44cb-a8e9-9b40765e2d0c_850",
+        "answer_act": "swirl dough on cooking pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "24a98327-daa1-4afb-a445-fedb484de788_851",
+        "answer_act": "turn food in fry pan with chopstick"
+    },
+    {
+        "answer": 3,
+        "question_id": "d4c2429e-cf3c-439e-9908-737a47685cfe_852",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 1,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_853",
+        "answer_act": "break eggs into bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "aba38542-03dc-4d93-81ab-c6348dee042b_854",
+        "answer_act": "adjust water tap"
+    },
+    {
+        "answer": 3,
+        "question_id": "0f5b2d21-5aaf-4073-a63f-2e56b651e132_855",
+        "answer_act": "close cooking lid"
+    },
+    {
+        "answer": 1,
+        "question_id": "0b215326-8706-4611-9b76-3402d617f19e_856",
+        "answer_act": "remove sieve from rack"
+    },
+    {
+        "answer": 3,
+        "question_id": "be8889c4-114f-4cb2-9e2c-fef576dbb00d_857",
+        "answer_act": "smear blueband on bread"
+    },
+    {
+        "answer": 0,
+        "question_id": "e832a197-6ce3-47fa-9871-e87f906d1d74_858",
+        "answer_act": "stir flour with whisk"
+    },
+    {
+        "answer": 3,
+        "question_id": "6ac1d2ed-1f6b-4828-a1ab-f81c40bd5e80_859",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_860",
+        "answer_act": "close fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_861",
+        "answer_act": "put seasoning powder in fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "401c588f-907f-4559-b6f7-8180ae6969ec_862",
+        "answer_act": "close oil bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "90a0cc01-f498-490a-bda1-01ad94db2946_863",
+        "answer_act": "pick up scissors"
+    },
+    {
+        "answer": 3,
+        "question_id": "f26ca7c3-2dfe-4e74-be61-529635df723f_864",
+        "answer_act": "put down tortillas"
+    },
+    {
+        "answer": 1,
+        "question_id": "6ab72273-4324-4cec-aad4-1a644b57356b_865",
+        "answer_act": "put down knife"
+    },
+    {
+        "answer": 0,
+        "question_id": "224c3de4-9683-462a-8eb4-224773425a7e_866",
+        "answer_act": "turn off heat regulator"
+    },
+    {
+        "answer": 0,
+        "question_id": "c1c18372-0f3a-4996-beaf-d505faed7d17_867",
+        "answer_act": "place bowl on utensils"
+    },
+    {
+        "answer": 1,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_868",
+        "answer_act": "pour water in bowl"
+    },
+    {
+        "answer": 1,
+        "question_id": "b86d5db4-dcd2-4d5e-913a-784d1dd42d67_869",
+        "answer_act": "pick up washing sponge"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_870",
+        "answer_act": "pick up container"
+    },
+    {
+        "answer": 1,
+        "question_id": "201956f0-8e28-4ba2-b96b-98855c738fb0_871",
+        "answer_act": "turn on tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "12bf3659-40c4-4094-a4d3-507ec04bc512_872",
+        "answer_act": "insert cabbage into fridge"
+    },
+    {
+        "answer": 3,
+        "question_id": "48509cf2-9c7b-401a-99f9-fca9f1403149_873",
+        "answer_act": "pick up sponge from washing base"
+    },
+    {
+        "answer": 1,
+        "question_id": "e191e0de-e570-4925-9cbb-e05fe1132a47_874",
+        "answer_act": "open bottle"
+    },
+    {
+        "answer": 1,
+        "question_id": "4dcf1151-b0dd-49e8-8e76-3d0075d4c3f7_875",
+        "answer_act": "close tomato sauce bottle with lid"
+    },
+    {
+        "answer": 0,
+        "question_id": "64246b7f-86c9-4062-a11f-3352fae1fca1_876",
+        "answer_act": "close bottle lid"
+    },
+    {
+        "answer": 1,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_877",
+        "answer_act": "cover pot"
+    },
+    {
+        "answer": 1,
+        "question_id": "8f91bc0d-9ce7-4b31-aba7-dd59791917df_878",
+        "answer_act": "put down spoon"
+    },
+    {
+        "answer": 1,
+        "question_id": "002d2729-df71-438d-8396-5895b349e8fd_879",
+        "answer_act": "pour soap on sponge"
+    },
+    {
+        "answer": 3,
+        "question_id": "401c588f-907f-4559-b6f7-8180ae6969ec_880",
+        "answer_act": "open cabinet shelf"
+    },
+    {
+        "answer": 3,
+        "question_id": "094bb63c-2050-4471-88eb-de3b86c26c81_881",
+        "answer_act": "put down vegetable pan"
+    },
+    {
+        "answer": 0,
+        "question_id": "2ff3fee9-1073-4201-b0c5-2cb0292e4d00_882",
+        "answer_act": "pick up serving plate from cupboard"
+    },
+    {
+        "answer": 2,
+        "question_id": "056db3f1-f957-46c8-b16b-c8fce22e78f9_883",
+        "answer_act": "take egg"
+    },
+    {
+        "answer": 0,
+        "question_id": "f86e10e3-ba23-4b1b-8964-82876eed5863_884",
+        "answer_act": "put dough in pan"
+    },
+    {
+        "answer": 2,
+        "question_id": "86343e9e-b932-41d3-ad6f-83f2c2fe5486_885",
+        "answer_act": "open kitchen drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "c0daf345-1f3d-4878-871b-b24f5955b43a_886",
+        "answer_act": "put bowl on counter"
+    },
+    {
+        "answer": 3,
+        "question_id": "c8f8ebf1-5613-4f4a-802c-ada5e4c4b651_887",
+        "answer_act": "place bowl on work top"
+    },
+    {
+        "answer": 3,
+        "question_id": "07b1c874-9dc1-42bc-87ff-dffa9bef14fb_888",
+        "answer_act": "put baked cakes in oven"
+    },
+    {
+        "answer": 3,
+        "question_id": "90a0cc01-f498-490a-bda1-01ad94db2946_889",
+        "answer_act": "place patties"
+    },
+    {
+        "answer": 0,
+        "question_id": "64f466e5-99c9-4ed5-89be-7ef74d0dfdd3_890",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 0,
+        "question_id": "bfd0b75b-25b0-44a3-b1dd-2e8e9c0e9364_891",
+        "answer_act": "wash pasta in sink"
+    },
+    {
+        "answer": 2,
+        "question_id": "8c309d88-bf71-49f3-9d05-b7a1d84babd4_892",
+        "answer_act": "put carrot on tray"
+    },
+    {
+        "answer": 0,
+        "question_id": "45e463b2-bdd5-407a-ab5c-8a5c5534e078_893",
+        "answer_act": "move cooking pan on burner"
+    },
+    {
+        "answer": 2,
+        "question_id": "e1fa7b91-41ea-467d-b242-7bb08f8e5960_894",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "0f809826-2ccb-4a75-abbd-81125f65994c_895",
+        "answer_act": "put glass in utensil rack"
+    },
+    {
+        "answer": 1,
+        "question_id": "cfa595aa-c467-48fe-a86b-2e9b1a63ccab_896",
+        "answer_act": "put groundnuts"
+    },
+    {
+        "answer": 1,
+        "question_id": "597b1ca1-e2ea-4a0e-8be0-31b713151ba2_897",
+        "answer_act": "place metal sieve on cooking pot"
+    },
+    {
+        "answer": 0,
+        "question_id": "a0b24dc7-12d4-49ee-b3a3-4192a26ebdfd_898",
+        "answer_act": "place chopsticks on cutting board"
+    },
+    {
+        "answer": 3,
+        "question_id": "7303d3a9-90fd-433d-987c-8c90ce49c821_899",
+        "answer_act": "open tap"
+    },
+    {
+        "answer": 2,
+        "question_id": "f5c456b2-b998-4f42-82bd-786833fb3891_900",
+        "answer_act": "move coffee maker"
+    },
+    {
+        "answer": 1,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_901",
+        "answer_act": "open fridge"
+    },
+    {
+        "answer": 0,
+        "question_id": "947e135d-ae28-4812-8575-8418ff4585ff_902",
+        "answer_act": "press timer"
+    },
+    {
+        "answer": 2,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_903",
+        "answer_act": "put down chopsticks"
+    },
+    {
+        "answer": 0,
+        "question_id": "86343e9e-b932-41d3-ad6f-83f2c2fe5486_904",
+        "answer_act": "carry bowl from table"
+    },
+    {
+        "answer": 3,
+        "question_id": "ed8d28d1-5d1e-4370-a946-9c39fe5c679b_905",
+        "answer_act": "adjust cooker"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_906",
+        "answer_act": "pick up seasoning container on kitchen window"
+    },
+    {
+        "answer": 0,
+        "question_id": "0f5b2d21-5aaf-4073-a63f-2e56b651e132_907",
+        "answer_act": "open kitchen hood"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4168afc-c19a-42dc-a8df-153072e4f455_908",
+        "answer_act": "put cutlet on plate"
+    },
+    {
+        "answer": 0,
+        "question_id": "2bd1593c-ae88-417e-827f-3997201da229_909",
+        "answer_act": "put whisks on plate"
+    },
+    {
+        "answer": 1,
+        "question_id": "a4728450-c05c-4d51-91e4-348f571d74bc_910",
+        "answer_act": "stir mushroom"
+    },
+    {
+        "answer": 2,
+        "question_id": "df31a646-4ee1-428a-bb97-1d1e872c8d37_911",
+        "answer_act": "grab frying pan"
+    },
+    {
+        "answer": 1,
+        "question_id": "9a4ed30a-1535-4eaa-b9dc-40437b77f852_912",
+        "answer_act": "take jug"
+    },
+    {
+        "answer": 0,
+        "question_id": "5dd8a212-e71d-48b1-956a-cf3e99d74953_913",
+        "answer_act": "put spoon on plate"
+    },
+    {
+        "answer": 3,
+        "question_id": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058_914",
+        "answer_act": "take bread from fridge"
+    },
+    {
+        "answer": 2,
+        "question_id": "edc1869c-8a97-44fd-ab47-63fda4a54df9_915",
+        "answer_act": "carry chopping board"
+    },
+    {
+        "answer": 1,
+        "question_id": "f319b070-3775-4a57-95d8-43aab8e67394_916",
+        "answer_act": "take rolling pin from table"
+    },
+    {
+        "answer": 1,
+        "question_id": "1d920f78-73d0-4323-b8b1-be51d27a69a7_917",
+        "answer_act": "put containers in refrigerator"
+    },
+    {
+        "answer": 1,
+        "question_id": "90a0cc01-f498-490a-bda1-01ad94db2946_918",
+        "answer_act": "open pack"
+    },
+    {
+        "answer": 0,
+        "question_id": "565d83f1-0c21-4f4a-a4d1-ffb336c554ef_919",
+        "answer_act": "pull open drawer"
+    },
+    {
+        "answer": 1,
+        "question_id": "7f4225ed-a076-4530-91cf-f3903c5d7637_920",
+        "answer_act": "pour vegetable"
+    },
+    {
+        "answer": 2,
+        "question_id": "2c7fc799-1d40-49da-b5a2-213bac8ea420_921",
+        "answer_act": "put tins in cupboard"
+    },
+    {
+        "answer": 2,
+        "question_id": "055f3cf1-1133-4260-b5a0-31e7ca1726a1_922",
+        "answer_act": "grab knife"
+    }
+]
