@@ -34,7 +34,7 @@ Table of Contents
 
 1. Clone this repository and navigate to VideoLLaMB folder
 ```bash
-git clone https://github.com/patrick-tssn/VideoLLaMB.git
+git clone https://github.com/nlco-bigai/VideoLLaMB.git
 cd VideoLLaMB
 ```
 
@@ -142,7 +142,7 @@ bash scripts/eval/mvbench.sh # mvbench
 
 b. MM-NIAVH
 
-check our benchmark [Needle In A Video Haystack (NIAVH)](https://github.com/patrick-tssn/MM-NIAVH)
+check our benchmark [Needle In A Video Haystack (NIAVH)](https://github.com/bigai-nlco/MM-NIAVH)
 
 
 <img src="assets/niavh.png" width="500" />
@@ -154,7 +154,7 @@ check our benchmark [Needle In A Video Haystack (NIAVH)](https://github.com/patr
 |Model      |Base Model      |  Training Data |  Download Link       | 
 | ------------- | ------------- | -------- |  ------------- |
 | VideoLLaMB-7B| llava-v1.5-7b | [magic_json](https://huggingface.co/datasets/cathyxl/magic_jsons), [LLaVA](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)        | [🤗videollamb-llava-1.5-7b](https://huggingface.co/ColorfulAI/VideoLLaMB)        | 
-| VideoLLaMB-7B-Mem| llava-v1.5-7b | [magic_json](https://huggingface.co/datasets/cathyxl/magic_jsons), [LLaVA](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)        | [🤗videollamb-mem-llava-1.5-7b](https://huggingface.co/ColorfulAI/VideoLLaMB_Mem)        | 
+| VideoLLaMB-7B-Mem (MM-NIAVH)| llava-v1.5-7b | [magic_json](https://huggingface.co/datasets/cathyxl/magic_jsons), [LLaVA](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)        | [🤗videollamb-mem-llava-1.5-7b](https://huggingface.co/ColorfulAI/VideoLLaMB_Mem)        | 
 
 
 
