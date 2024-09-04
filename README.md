@@ -6,7 +6,7 @@
 
 # VideoLLaMB: Long Video Understanding with Recurrent Memory Bridges
 
-
+[![videollamb-page](https://img.shields.io/badge/videollamb-page-blue)](https://videollamb.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.01071-b31b1b.svg)](https://arxiv.org/abs/2409.01071)
 
 <!-- [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
