@@ -7,8 +7,9 @@
 # VideoLLaMB: Long Video Understanding with Recurrent Memory Bridges
 
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)
-[![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2409.01071-b31b1b.svg)](https://arxiv.org/abs/2409.01071)
+
+<!-- [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
 
 </div>
 
