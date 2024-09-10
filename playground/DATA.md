@@ -12,6 +12,8 @@ We use the video instruction data from [PLLaVA](https://github.com/magic-researc
 
 **Videos**: 
 
+*Note: The Preprocessed links come from this [issue](https://github.com/OpenGVLab/Ask-Anything/issues/176) provided by the authors of VideoChat2. If the links are not available, please refer to their original [VideoChat2](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2).*
+
 - [VideoChat](https://github.com/OpenGVLab/InternVideo/tree/main/Data/instruction_data) Preprocessed [download link](https://pjlab-gvm-data.oss-cn-shanghai.aliyuncs.com/videochat2/data/videochat2_conversation_videos.zip)
 - [VideoChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT/tree/main/data) Direct [download link](https://mbzuaiac-my.sharepoint.com/personal/hanoona_bangalath_mbzuai_ac_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhanoona%5Fbangalath%5Fmbzuai%5Fac%5Fae%2FDocuments%2FVideo%2DChatGPT%2FData%5FCode%5FModel%5FRelease%2FData&ga=1)
 - [Kinetics-710](https://github.com/OpenGVLab/UniFormerV2/blob/main/DATASET.md) Alternative [download link](https://openxlab.org.cn/datasets?keywords=kinetics)
