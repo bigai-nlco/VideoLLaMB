@@ -8,15 +8,16 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
 #SBATCH --gres=gpu:4
-#SBATCH --output=./slurm_logs/train-mb-llava-7b.out
-#SBATCH --error=./slurm_logs/train-mb-llava-7b.error.out
+#SBATCH --output=./slurm_logs/train-mbl-llava-7b.out
+#SBATCH --error=./slurm_logs/train-mbl-llava-7b.error.out
 
+# --freeze_mm_mlp_adapter True \
 # --master_port 18983 
 # export NCCL_DEBUG=INFO
 # export NCCL_DEBUG_SUBSYS=ALL
     # --pretrain_mm_mlp_adapter ./checkpoints/llava-v1.5-7b/mm_projector.bin \
-deepspeed --master_port 24612 llava/train/train_mem.py \
-    --deepspeed ./scripts/zero2.json \
+deepspeed --master_port 40615 llava/train/train_mem.py \
+    --deepspeed ./scripts/zero1.json \
     --model_name_or_path ./checkpoints/llava-v1.5-7b \
     --version v1 \
     --data_path ./playground/data/llava_videochat2_filter.json \
@@ -36,7 +37,7 @@ deepspeed --master_port 24612 llava/train/train_mem.py \
     --bf16 True \
     --output_dir ./checkpoints/videollamb-llava-7b \
     --num_train_epochs 1 \
-    --per_device_train_batch_size 16 \
+    --per_device_train_batch_size 4 \
     --per_device_eval_batch_size 2 \
     --gradient_accumulation_steps 1 \
     --evaluation_strategy "no" \
@@ -46,6 +47,7 @@ deepspeed --master_port 24612 llava/train/train_mem.py \
     --learning_rate 2e-5 \
     --weight_decay 0. \
     --warmup_ratio 0.03 \
+    --lr_scheduler_type "cosine" \
     --logging_steps 1 \
     --tf32 True \
     --model_max_length 2048 \
