@@ -388,9 +388,8 @@ class RMTRTransformerProjector(nn.Module):
                 )
                 last_hidden_states = segment_output[0]
                 read_memories = segment_output[1]
-                # memory_cache.append(read_memories.clone().detach())
-                memory_cache.append(segment_output[2].clone().detach())
-                # memory_cache.append(read_memories)
+                # memory_cache.append(segment_output[2].clone().detach())
+                memory_cache.append(read_memories)
                 all_last_hidden_states.append(last_hidden_states)
                 read_memories = self.retrieval(
                     read_memories,
