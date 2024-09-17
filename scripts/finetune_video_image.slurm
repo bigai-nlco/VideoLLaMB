@@ -37,7 +37,7 @@ deepspeed --master_port 40615 llava/train/train_mem.py \
     --bf16 True \
     --output_dir ./checkpoints/videollamb-llava-7b \
     --num_train_epochs 1 \
-    --per_device_train_batch_size 4 \
+    --per_device_train_batch_size 8 \
     --per_device_eval_batch_size 2 \
     --gradient_accumulation_steps 1 \
     --evaluation_strategy "no" \
