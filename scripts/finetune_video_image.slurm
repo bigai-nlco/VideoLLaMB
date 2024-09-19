@@ -20,7 +20,7 @@ deepspeed --master_port 40615 llava/train/train_mem.py \
     --deepspeed ./scripts/zero1.json \
     --model_name_or_path ./checkpoints/llava-v1.5-7b \
     --version v1 \
-    --data_path ./playground/data/llava_videochat2_filter.json \
+    --data_path ./playground/data/llava_pllava_filter.json \
     --x_folder ./playground/data \
     --video_tower ./checkpoints/LanguageBind_Video_merge \
     --image_tower ./checkpoints/LanguageBind_Image \
