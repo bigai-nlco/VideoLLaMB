@@ -35,7 +35,7 @@ Table of Contents
 
 1. Clone this repository and navigate to VideoLLaMB folder
 ```bash
-git clone https://github.com/nlco-bigai/VideoLLaMB.git
+git clone https://github.com/bigai-nlco/VideoLLaMB.git
 cd VideoLLaMB
 ```
 
